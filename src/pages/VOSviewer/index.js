@@ -12,7 +12,7 @@ import Share from 'components/ui/Share';
 import Screenshot from 'components/ui/Screenshot';
 import DarkLightTheme from 'components/ui/DarkLightTheme';
 import Fullscreen from 'components/ui/Fullscreen';
-import Info from 'components/ui/Info';
+// import Info from 'components/ui/Info';
 import ControlPanel from 'components/ui/ControlPanel';
 import InfoPanel from 'components/ui/InfoPanel';
 import URLPanel from 'components/ui/URLPanel';
