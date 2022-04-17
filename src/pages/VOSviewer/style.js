@@ -28,6 +28,6 @@ export const actionIcons = (previewPanelWidth) => css`
 export const vosviewerLogo = css`
   label: vosviewer-logo;
   position: absolute;
-  height: 22px;
+  height: 60px;
   margin: 12px;
 `;
