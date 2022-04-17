@@ -28,8 +28,8 @@
     "description_panel": true,
     "legend_panel": true,
     "open_icon": false,
-    "save_icon": true,
-    "share_icon": false,
+    "save_icon": false,
+    "share_icon": true,
     "screenshot_icon": true,
     "background_icon": true,
     "fullscreen_icon": false
