@@ -1,0 +1,7096 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "adam antebi",
+				"x": -0.8272,
+				"y": 0.2588,
+				"cluster": 12,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 40.0000,
+					"Norm. citations": 1.7391
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 40.0000,
+					"Avg. norm. citations": 1.7391
+				}
+			},
+			{
+				"id": 2,
+				"label": "alejandro burga",
+				"x": -0.4307,
+				"y": -0.3601,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 18.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 3,
+				"label": "alevtina koreshova",
+				"x": -0.3264,
+				"y": -0.3927,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 18.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 4,
+				"label": "alexander w. shingleton",
+				"x": -0.7153,
+				"y": -0.3347,
+				"cluster": 7,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 14.0000,
+					"Documents": 3.0000,
+					"Citations": 368.0000,
+					"Norm. citations": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 122.6667,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 5,
+				"label": "am velazquez vargas",
+				"x": -0.1002,
+				"y": -0.3140,
+				"cluster": 13,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 6,
+				"label": "amhed missael vargas velazquez",
+				"x": -0.1074,
+				"y": -0.3641,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.2895
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 7.0000,
+					"Avg. norm. citations": 1.2895
+				}
+			},
+			{
+				"id": 7,
+				"label": "amy k. webster",
+				"x": 1.0017,
+				"y": 0.6872,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 42.0000,
+					"Documents": 3.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 10.0902
+				},
+				"scores": {
+					"Avg. pub. year": 2020.6667,
+					"Avg. citations": 14.3333,
+					"Avg. norm. citations": 3.3634
+				}
+			},
+			{
+				"id": 8,
+				"label": "andreas h. ludewig",
+				"x": -0.8296,
+				"y": 0.1524,
+				"cluster": 15,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 40.0000,
+					"Norm. citations": 1.7391
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 40.0000,
+					"Avg. norm. citations": 1.7391
+				}
+			},
+			{
+				"id": 9,
+				"label": "andreas heyland",
+				"x": -0.1542,
+				"y": -0.2917,
+				"cluster": 16,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 32.0000,
+					"Norm. citations": 0.2065
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 32.0000,
+					"Avg. norm. citations": 0.2065
+				}
+			},
+			{
+				"id": 10,
+				"label": "ania pino-querido",
+				"x": -0.6396,
+				"y": 0.7750,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 21.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 11,
+				"label": "anne vielle",
+				"x": -0.4098,
+				"y": 0.5154,
+				"cluster": 2,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 70.0000,
+					"Documents": 11.0000,
+					"Citations": 76.0000,
+					"Norm. citations": 5.4590
+				},
+				"scores": {
+					"Avg. pub. year": 2017.9091,
+					"Avg. citations": 6.9091,
+					"Avg. norm. citations": 0.4963
+				}
+			},
+			{
+				"id": 12,
+				"label": "asher d. cutter",
+				"x": -0.4706,
+				"y": 0.0342,
+				"cluster": 6,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 36.0000,
+					"Documents": 7.0000,
+					"Citations": 272.0000,
+					"Norm. citations": 5.4684
+				},
+				"scores": {
+					"Avg. pub. year": 2015.1429,
+					"Avg. citations": 38.8571,
+					"Avg. norm. citations": 0.7812
+				}
+			},
+			{
+				"id": 13,
+				"label": "aurélien richaud",
+				"x": 0.4866,
+				"y": -0.5630,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 31.0000,
+					"Documents": 2.0000,
+					"Citations": 72.0000,
+					"Norm. citations": 4.5487
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 36.0000,
+					"Avg. norm. citations": 2.2744
+				}
+			},
+			{
+				"id": 14,
+				"label": "beom-seok seo",
+				"x": 0.1243,
+				"y": 0.4128,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 42.0000,
+					"Documents": 3.0000,
+					"Citations": 94.0000,
+					"Norm. citations": 2.3764
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 31.3333,
+					"Avg. norm. citations": 0.7921
+				}
+			},
+			{
+				"id": 15,
+				"label": "boutin m",
+				"x": -0.0753,
+				"y": -0.4960,
+				"cluster": 17,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2002.0000,
+					"Avg. citations": 75.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 16,
+				"label": "buck s. samuel",
+				"x": 0.0776,
+				"y": -0.3017,
+				"cluster": 18,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 211.0000,
+					"Norm. citations": 5.3343
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 211.0000,
+					"Avg. norm. citations": 5.3343
+				}
+			},
+			{
+				"id": 17,
+				"label": "bénédicte billard",
+				"x": -0.2979,
+				"y": 0.2885,
+				"cluster": 19,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.9600
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.9800
+				}
+			},
+			{
+				"id": 18,
+				"label": "caillaud mc",
+				"x": -0.1149,
+				"y": -0.5339,
+				"cluster": 20,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2002.0000,
+					"Avg. citations": 75.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 19,
+				"label": "carlos caurcel",
+				"x": 0.8715,
+				"y": -0.4746,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 31.0000,
+					"Documents": 2.0000,
+					"Citations": 72.0000,
+					"Norm. citations": 4.5487
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 36.0000,
+					"Avg. norm. citations": 2.2744
+				}
+			},
+			{
+				"id": 20,
+				"label": "celine ferrari",
+				"x": -0.7427,
+				"y": 0.6817,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 21.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 21,
+				"label": "charles f. baer",
+				"x": 0.2665,
+				"y": -0.1472,
+				"cluster": 21,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 61.0000,
+					"Norm. citations": 0.2990
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 61.0000,
+					"Avg. norm. citations": 0.2990
+				}
+			},
+			{
+				"id": 22,
+				"label": "charlie gosse",
+				"x": 0.8487,
+				"y": -0.5991,
+				"cluster": 22,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 16.0000,
+					"Documents": 1.0000,
+					"Citations": 66.0000,
+					"Norm. citations": 3.4435
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 66.0000,
+					"Avg. norm. citations": 3.4435
+				}
+			},
+			{
+				"id": 23,
+				"label": "christian braendle",
+				"x": 0.0727,
+				"y": 0.0326,
+				"cluster": 1,
+				"weights": {
+					"Links": 141.0000,
+					"Total link strength": 430.0000,
+					"Documents": 72.0000,
+					"Citations": 3038.0000,
+					"Norm. citations": 72.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.1806,
+					"Avg. citations": 42.1944,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 24,
+				"label": "christian frøkjær-jensen",
+				"x": -0.7632,
+				"y": 0.7947,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 21.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 25,
+				"label": "clara l. essmann",
+				"x": 0.1154,
+				"y": -0.5833,
+				"cluster": 24,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 26,
+				"label": "clotilde gimond",
+				"x": -0.5253,
+				"y": 0.3526,
+				"cluster": 2,
+				"weights": {
+					"Links": 34.0000,
+					"Total link strength": 86.0000,
+					"Documents": 14.0000,
+					"Citations": 165.0000,
+					"Norm. citations": 8.3203
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6429,
+					"Avg. citations": 11.7857,
+					"Avg. norm. citations": 0.5943
+				}
+			},
+			{
+				"id": 27,
+				"label": "céline ferrari",
+				"x": -0.3447,
+				"y": 0.0285,
+				"cluster": 6,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 26.0000,
+					"Documents": 5.0000,
+					"Citations": 162.0000,
+					"Norm. citations": 5.2966
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 32.4000,
+					"Avg. norm. citations": 1.0593
+				}
+			},
+			{
+				"id": 28,
+				"label": "daehan lee",
+				"x": 0.6187,
+				"y": 0.9219,
+				"cluster": 1,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 66.0000,
+					"Documents": 5.0000,
+					"Citations": 70.0000,
+					"Norm. citations": 11.4989
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 14.0000,
+					"Avg. norm. citations": 2.2998
+				}
+			},
+			{
+				"id": 29,
+				"label": "dania c. pulido",
+				"x": -0.9020,
+				"y": 0.3147,
+				"cluster": 25,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 40.0000,
+					"Norm. citations": 1.7391
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 40.0000,
+					"Avg. norm. citations": 1.7391
+				}
+			},
+			{
+				"id": 30,
+				"label": "daniel e. cook",
+				"x": 0.4546,
+				"y": 0.7863,
+				"cluster": 1,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 108.0000,
+					"Documents": 8.0000,
+					"Citations": 164.0000,
+					"Norm. citations": 13.8753
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 20.5000,
+					"Avg. norm. citations": 1.7344
+				}
+			},
+			{
+				"id": 31,
+				"label": "david d. riccardi",
+				"x": 0.2997,
+				"y": 0.3770,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 42.0000,
+					"Documents": 3.0000,
+					"Citations": 94.0000,
+					"Norm. citations": 2.3764
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 31.3333,
+					"Avg. norm. citations": 0.7921
+				}
+			},
+			{
+				"id": 32,
+				"label": "david h. a. fitch",
+				"x": 0.5217,
+				"y": -0.3992,
+				"cluster": 3,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 37.0000,
+					"Documents": 3.0000,
+					"Citations": 350.0000,
+					"Norm. citations": 6.3423
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 116.6667,
+					"Avg. norm. citations": 2.1141
+				}
+			},
+			{
+				"id": 33,
+				"label": "david j. reiner",
+				"x": -0.3019,
+				"y": -0.9919,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 15.0000,
+					"Documents": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.4174
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.2087
+				}
+			},
+			{
+				"id": 34,
+				"label": "david l. stern",
+				"x": -0.5502,
+				"y": -0.2311,
+				"cluster": 8,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 21.0000,
+					"Documents": 6.0000,
+					"Citations": 726.0000,
+					"Norm. citations": 8.0568
+				},
+				"scores": {
+					"Avg. pub. year": 2004.5000,
+					"Avg. citations": 121.0000,
+					"Avg. norm. citations": 1.3428
+				}
+			},
+			{
+				"id": 35,
+				"label": "desean r. craig",
+				"x": -0.2068,
+				"y": -0.9368,
+				"cluster": 26,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 36,
+				"label": "eldon c. peters",
+				"x": -0.2612,
+				"y": -0.8448,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 15.0000,
+					"Documents": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.4174
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.2087
+				}
+			},
+			{
+				"id": 37,
+				"label": "emilie demoinet",
+				"x": 0.2290,
+				"y": -0.2968,
+				"cluster": 11,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 8.0000,
+					"Documents": 2.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 4.4211
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 12.0000,
+					"Avg. norm. citations": 2.2105
+				}
+			},
+			{
+				"id": 38,
+				"label": "eric a. miska",
+				"x": 0.2779,
+				"y": -0.2428,
+				"cluster": 11,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 8.0000,
+					"Documents": 2.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 4.4211
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 12.0000,
+					"Avg. norm. citations": 2.2105
+				}
+			},
+			{
+				"id": 39,
+				"label": "erik c. andersen",
+				"x": 0.6141,
+				"y": 0.3937,
+				"cluster": 1,
+				"weights": {
+					"Links": 44.0000,
+					"Total link strength": 195.0000,
+					"Documents": 17.0000,
+					"Citations": 253.0000,
+					"Norm. citations": 17.6500
+				},
+				"scores": {
+					"Avg. pub. year": 2018.8235,
+					"Avg. citations": 14.8824,
+					"Avg. norm. citations": 1.0382
+				}
+			},
+			{
+				"id": 40,
+				"label": "eyal ben-david",
+				"x": -0.4191,
+				"y": -0.4724,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 18.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 41,
+				"label": "fang-jung yang",
+				"x": -0.1717,
+				"y": 0.9539,
+				"cluster": 27,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 42,
+				"label": "francisca sefakor mote",
+				"x": -0.2100,
+				"y": -1.0379,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 15.0000,
+					"Documents": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.4174
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.2087
+				}
+			},
+			{
+				"id": 43,
+				"label": "frank c. schroeder",
+				"x": -0.1045,
+				"y": 0.6777,
+				"cluster": 9,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 33.0000,
+					"Documents": 3.0000,
+					"Citations": 67.0000,
+					"Norm. citations": 3.1478
+				},
+				"scores": {
+					"Avg. pub. year": 2018.3333,
+					"Avg. citations": 22.3333,
+					"Avg. norm. citations": 1.0493
+				}
+			},
+			{
+				"id": 44,
+				"label": "frank döring",
+				"x": -0.8179,
+				"y": 0.3526,
+				"cluster": 28,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 40.0000,
+					"Norm. citations": 1.7391
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 40.0000,
+					"Avg. norm. citations": 1.7391
+				}
+			},
+			{
+				"id": 45,
+				"label": "gaotian zhang",
+				"x": 1.2692,
+				"y": 0.1537,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 52.0000,
+					"Documents": 4.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.7021
+				},
+				"scores": {
+					"Avg. pub. year": 2020.7500,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 0.4255
+				}
+			},
+			{
+				"id": 46,
+				"label": "gary ruvkun",
+				"x": 0.1346,
+				"y": -0.2962,
+				"cluster": 29,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 211.0000,
+					"Norm. citations": 5.3343
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 211.0000,
+					"Avg. norm. citations": 5.3343
+				}
+			},
+			{
+				"id": 47,
+				"label": "geoffroy c sisk",
+				"x": -0.7977,
+				"y": -0.1812,
+				"cluster": 30,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 168.0000,
+					"Norm. citations": 1.3696
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 168.0000,
+					"Avg. norm. citations": 1.3696
+				}
+			},
+			{
+				"id": 48,
+				"label": "gregory k. davis",
+				"x": -0.4353,
+				"y": -0.2356,
+				"cluster": 31,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 248.0000,
+					"Norm. citations": 2.1628
+				},
+				"scores": {
+					"Avg. pub. year": 2006.0000,
+					"Avg. citations": 248.0000,
+					"Avg. norm. citations": 2.1628
+				}
+			},
+			{
+				"id": 49,
+				"label": "hanna shin",
+				"x": -0.0866,
+				"y": -0.9069,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 15.0000,
+					"Documents": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.4174
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.2087
+				}
+			},
+			{
+				"id": 50,
+				"label": "hannah s. seidel",
+				"x": 1.1504,
+				"y": -0.1834,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 62.0000,
+					"Documents": 5.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.7021
+				},
+				"scores": {
+					"Avg. pub. year": 2020.6000,
+					"Avg. citations": 1.6000,
+					"Avg. norm. citations": 0.3404
+				}
+			},
+			{
+				"id": 51,
+				"label": "henrique teotónio",
+				"x": -0.6698,
+				"y": 0.4977,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 32.0000,
+					"Documents": 5.0000,
+					"Citations": 29.0000,
+					"Norm. citations": 2.5075
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6000,
+					"Avg. citations": 5.8000,
+					"Avg. norm. citations": 0.5015
+				}
+			},
+			{
+				"id": 52,
+				"label": "holli rowedder",
+				"x": 0.1508,
+				"y": -0.3565,
+				"cluster": 32,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 211.0000,
+					"Norm. citations": 5.3343
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 211.0000,
+					"Avg. norm. citations": 5.3343
+				}
+			},
+			{
+				"id": 53,
+				"label": "ilvy friebe",
+				"x": -0.3662,
+				"y": -0.2354,
+				"cluster": 8,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 6.0000,
+					"Documents": 2.0000,
+					"Citations": 66.0000,
+					"Norm. citations": 1.6098
+				},
+				"scores": {
+					"Avg. pub. year": 2005.0000,
+					"Avg. citations": 33.0000,
+					"Avg. norm. citations": 0.8049
+				}
+			},
+			{
+				"id": 54,
+				"label": "j. c. simon",
+				"x": -0.1240,
+				"y": -0.4640,
+				"cluster": 33,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2002.0000,
+					"Avg. citations": 75.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 55,
+				"label": "jacqueline l jackson",
+				"x": 1.1143,
+				"y": 0.1803,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 62.0000,
+					"Documents": 5.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.7021
+				},
+				"scores": {
+					"Avg. pub. year": 2020.6000,
+					"Avg. citations": 1.6000,
+					"Avg. norm. citations": 0.3404
+				}
+			},
+			{
+				"id": 56,
+				"label": "jan e. kammenga",
+				"x": 0.0976,
+				"y": 0.6005,
+				"cluster": 1,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 66.0000,
+					"Documents": 5.0000,
+					"Citations": 121.0000,
+					"Norm. citations": 3.7851
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2000,
+					"Avg. citations": 24.2000,
+					"Avg. norm. citations": 0.7570
+				}
+			},
+			{
+				"id": 57,
+				"label": "jean baptiste pénigault",
+				"x": 0.3931,
+				"y": -0.2769,
+				"cluster": 34,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 278.0000,
+					"Norm. citations": 1.7935
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 278.0000,
+					"Avg. norm. citations": 1.7935
+				}
+			},
+			{
+				"id": 58,
+				"label": "jennifer a. brisson",
+				"x": -0.4454,
+				"y": -0.1856,
+				"cluster": 35,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 248.0000,
+					"Norm. citations": 2.1628
+				},
+				"scores": {
+					"Avg. pub. year": 2006.0000,
+					"Avg. citations": 248.0000,
+					"Avg. norm. citations": 2.1628
+				}
+			},
+			{
+				"id": 59,
+				"label": "jeremy c. gray",
+				"x": -0.6234,
+				"y": 0.1633,
+				"cluster": 66,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 12.0000,
+					"Documents": 2.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 0.4298
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 8.5000,
+					"Avg. norm. citations": 0.2149
+				}
+			},
+			{
+				"id": 60,
+				"label": "johan hallin",
+				"x": -0.8864,
+				"y": 0.6487,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 21.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 61,
+				"label": "john g yuen",
+				"x": 1.4064,
+				"y": 0.2220,
+				"cluster": 65,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 26.0000,
+					"Documents": 2.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4255
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.2128
+				}
+			},
+			{
+				"id": 62,
+				"label": "john wang",
+				"x": 0.1136,
+				"y": 0.7991,
+				"cluster": 1,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 73.0000,
+					"Documents": 6.0000,
+					"Citations": 121.0000,
+					"Norm. citations": 3.7851
+				},
+				"scores": {
+					"Avg. pub. year": 2017.8333,
+					"Avg. citations": 20.1667,
+					"Avg. norm. citations": 0.6309
+				}
+			},
+			{
+				"id": 63,
+				"label": "john yuen",
+				"x": 1.0106,
+				"y": -0.2089,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 36.0000,
+					"Documents": 3.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 1.2766
+				},
+				"scores": {
+					"Avg. pub. year": 2020.3333,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 0.4255
+				}
+			},
+			{
+				"id": 64,
+				"label": "joost a. g. riksen",
+				"x": 0.3006,
+				"y": 0.9621,
+				"cluster": 9,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 24.0000,
+					"Documents": 2.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 1.4087
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 13.5000,
+					"Avg. norm. citations": 0.7043
+				}
+			},
+			{
+				"id": 65,
+				"label": "joshua c. judkins",
+				"x": -0.7579,
+				"y": 0.2048,
+				"cluster": 36,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 40.0000,
+					"Norm. citations": 1.7391
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 40.0000,
+					"Avg. norm. citations": 1.7391
+				}
+			},
+			{
+				"id": 66,
+				"label": "josselin milloz",
+				"x": 0.2121,
+				"y": -0.1852,
+				"cluster": 37,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 38.0000,
+					"Norm. citations": 0.4663
+				},
+				"scores": {
+					"Avg. pub. year": 2008.0000,
+					"Avg. citations": 38.0000,
+					"Avg. norm. citations": 0.4663
+				}
+			},
+			{
+				"id": 67,
+				"label": "jung chen hsu",
+				"x": 0.2626,
+				"y": 0.8602,
+				"cluster": 9,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 24.0000,
+					"Documents": 2.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 1.4087
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 13.5000,
+					"Avg. norm. citations": 0.7043
+				}
+			},
+			{
+				"id": 68,
+				"label": "jung-chen hsu",
+				"x": -0.2657,
+				"y": 0.9282,
+				"cluster": 38,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 69,
+				"label": "junho lee",
+				"x": 0.2360,
+				"y": 0.6701,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 42.0000,
+					"Documents": 3.0000,
+					"Citations": 94.0000,
+					"Norm. citations": 2.3764
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 31.3333,
+					"Avg. norm. citations": 0.7921
+				}
+			},
+			{
+				"id": 70,
+				"label": "karin kiontke",
+				"x": 0.6398,
+				"y": -0.3375,
+				"cluster": 3,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 37.0000,
+					"Documents": 3.0000,
+					"Citations": 350.0000,
+					"Norm. citations": 6.3423
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 116.6667,
+					"Avg. norm. citations": 2.1141
+				}
+			},
+			{
+				"id": 71,
+				"label": "kenneth liu",
+				"x": 0.0352,
+				"y": -0.5893,
+				"cluster": 39,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 72,
+				"label": "kimberly b. monahan",
+				"x": -0.1106,
+				"y": -1.0058,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 15.0000,
+					"Documents": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.4174
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.2087
+				}
+			},
+			{
+				"id": 73,
+				"label": "kyria tietze",
+				"x": 0.0739,
+				"y": -0.3899,
+				"cluster": 40,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 0.4045
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 16.0000,
+					"Avg. norm. citations": 0.4045
+				}
+			},
+			{
+				"id": 74,
+				"label": "l. ryan baugh",
+				"x": 1.0648,
+				"y": 0.4298,
+				"cluster": 1,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 94.0000,
+					"Documents": 7.0000,
+					"Citations": 51.0000,
+					"Norm. citations": 11.7923
+				},
+				"scores": {
+					"Avg. pub. year": 2020.7143,
+					"Avg. citations": 7.2857,
+					"Avg. norm. citations": 1.6846
+				}
+			},
+			{
+				"id": 75,
+				"label": "laure mignerot",
+				"x": -0.8678,
+				"y": 0.7529,
+				"cluster": 41,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 11.0000,
+					"Documents": 1.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.0638
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 5.0000,
+					"Avg. norm. citations": 1.0638
+				}
+			},
+			{
+				"id": 76,
+				"label": "laurent keller",
+				"x": -0.7496,
+				"y": -0.4381,
+				"cluster": 42,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.1060
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 13.0000,
+					"Avg. norm. citations": 0.1060
+				}
+			},
+			{
+				"id": 77,
+				"label": "leonid kruglyak",
+				"x": -0.0600,
+				"y": 0.2956,
+				"cluster": 1,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 60.0000,
+					"Documents": 5.0000,
+					"Citations": 101.0000,
+					"Norm. citations": 4.0002
+				},
+				"scores": {
+					"Avg. pub. year": 2017.8000,
+					"Avg. citations": 20.2000,
+					"Avg. norm. citations": 0.8000
+				}
+			},
+			{
+				"id": 78,
+				"label": "lewis stevens",
+				"x": 0.9454,
+				"y": 0.0096,
+				"cluster": 1,
+				"weights": {
+					"Links": 36.0000,
+					"Total link strength": 135.0000,
+					"Documents": 10.0000,
+					"Citations": 123.0000,
+					"Norm. citations": 16.3411
+				},
+				"scores": {
+					"Avg. pub. year": 2020.2000,
+					"Avg. citations": 12.3000,
+					"Avg. norm. citations": 1.6341
+				}
+			},
+			{
+				"id": 79,
+				"label": "lise frézal",
+				"x": 0.4506,
+				"y": -0.1170,
+				"cluster": 3,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 63.0000,
+					"Documents": 6.0000,
+					"Citations": 123.0000,
+					"Norm. citations": 10.3785
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 20.5000,
+					"Avg. norm. citations": 1.7297
+				}
+			},
+			{
+				"id": 80,
+				"label": "luke m. noble",
+				"x": 0.7131,
+				"y": -0.0637,
+				"cluster": 1,
+				"weights": {
+					"Links": 37.0000,
+					"Total link strength": 135.0000,
+					"Documents": 10.0000,
+					"Citations": 174.0000,
+					"Norm. citations": 8.6273
+				},
+				"scores": {
+					"Avg. pub. year": 2018.8000,
+					"Avg. citations": 17.4000,
+					"Avg. norm. citations": 0.8627
+				}
+			},
+			{
+				"id": 81,
+				"label": "manish grover",
+				"x": 0.1890,
+				"y": -0.5637,
+				"cluster": 43,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 82,
+				"label": "marc moscatelli",
+				"x": 1.3002,
+				"y": -0.1260,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 62.0000,
+					"Documents": 5.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.7021
+				},
+				"scores": {
+					"Avg. pub. year": 2020.6000,
+					"Avg. citations": 1.6000,
+					"Avg. norm. citations": 0.3404
+				}
+			},
+			{
+				"id": 83,
+				"label": "marie-anne félix",
+				"x": 0.4167,
+				"y": 0.1465,
+				"cluster": 1,
+				"weights": {
+					"Links": 60.0000,
+					"Total link strength": 187.0000,
+					"Documents": 25.0000,
+					"Citations": 1551.0000,
+					"Norm. citations": 39.4701
+				},
+				"scores": {
+					"Avg. pub. year": 2014.8800,
+					"Avg. citations": 62.0400,
+					"Avg. norm. citations": 1.5788
+				}
+			},
+			{
+				"id": 84,
+				"label": "marina c. caillaud",
+				"x": -0.2954,
+				"y": -0.2427,
+				"cluster": 8,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 8.0000,
+					"Documents": 3.0000,
+					"Citations": 123.0000,
+					"Norm. citations": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.0000,
+					"Avg. citations": 41.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 85,
+				"label": "mark blaxter",
+				"x": 0.7284,
+				"y": -0.6260,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 31.0000,
+					"Documents": 2.0000,
+					"Citations": 72.0000,
+					"Norm. citations": 4.5487
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 36.0000,
+					"Avg. norm. citations": 2.2744
+				}
+			},
+			{
+				"id": 86,
+				"label": "mark g. sterken",
+				"x": 0.7101,
+				"y": 0.7846,
+				"cluster": 1,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 66.0000,
+					"Documents": 5.0000,
+					"Citations": 70.0000,
+					"Norm. citations": 11.4989
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 14.0000,
+					"Avg. norm. citations": 2.2998
+				}
+			},
+			{
+				"id": 87,
+				"label": "mark j. alkema",
+				"x": 0.2230,
+				"y": 0.4910,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 42.0000,
+					"Documents": 3.0000,
+					"Citations": 94.0000,
+					"Norm. citations": 2.3764
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 31.3333,
+					"Avg. norm. citations": 0.7921
+				}
+			},
+			{
+				"id": 88,
+				"label": "matthew d. newton",
+				"x": 0.5952,
+				"y": -0.6454,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 31.0000,
+					"Documents": 2.0000,
+					"Citations": 72.0000,
+					"Norm. citations": 4.5487
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 36.0000,
+					"Avg. norm. citations": 2.2744
+				}
+			},
+			{
+				"id": 89,
+				"label": "matthew v. rockman",
+				"x": 0.8074,
+				"y": 0.2162,
+				"cluster": 1,
+				"weights": {
+					"Links": 45.0000,
+					"Total link strength": 183.0000,
+					"Documents": 14.0000,
+					"Citations": 495.0000,
+					"Norm. citations": 20.5110
+				},
+				"scores": {
+					"Avg. pub. year": 2018.6429,
+					"Avg. citations": 35.3571,
+					"Avg. norm. citations": 1.4651
+				}
+			},
+			{
+				"id": 90,
+				"label": "michael ailion",
+				"x": 0.4695,
+				"y": -0.2671,
+				"cluster": 44,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Documents": 1.0000,
+					"Citations": 278.0000,
+					"Norm. citations": 1.7935
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 278.0000,
+					"Avg. norm. citations": 1.7935
+				}
+			},
+			{
+				"id": 91,
+				"label": "michael k. fasseas",
+				"x": 0.1844,
+				"y": -0.6502,
+				"cluster": 45,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 92,
+				"label": "michalis barkoulas",
+				"x": 0.0930,
+				"y": -0.4879,
+				"cluster": 46,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 12.0000,
+					"Documents": 2.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 0.4045
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 8.0000,
+					"Avg. norm. citations": 0.2022
+				}
+			},
+			{
+				"id": 93,
+				"label": "michele bellone",
+				"x": -0.2500,
+				"y": 0.0724,
+				"cluster": 47,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 94,
+				"label": "nausicaa poullet",
+				"x": -0.4489,
+				"y": 0.1932,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 32.0000,
+					"Documents": 7.0000,
+					"Citations": 59.0000,
+					"Norm. citations": 3.4563
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4286,
+					"Avg. citations": 8.4286,
+					"Avg. norm. citations": 0.4938
+				}
+			},
+			{
+				"id": 95,
+				"label": "neal hockley",
+				"x": -0.7014,
+				"y": -0.4897,
+				"cluster": 48,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.1060
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 13.0000,
+					"Avg. norm. citations": 0.1060
+				}
+			},
+			{
+				"id": 96,
+				"label": "nicolas callemeyn-torre",
+				"x": -0.6233,
+				"y": 0.0334,
+				"cluster": 6,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 22.0000,
+					"Documents": 4.0000,
+					"Citations": 46.0000,
+					"Norm. citations": 1.6906
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5000,
+					"Avg. citations": 11.5000,
+					"Avg. norm. citations": 0.4227
+				}
+			},
+			{
+				"id": 97,
+				"label": "nicolas moya",
+				"x": 1.1647,
+				"y": 0.0027,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 62.0000,
+					"Documents": 5.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.7021
+				},
+				"scores": {
+					"Avg. pub. year": 2020.6000,
+					"Avg. citations": 1.6000,
+					"Avg. norm. citations": 0.3404
+				}
+			},
+			{
+				"id": 98,
+				"label": "nicole minoretti",
+				"x": -0.1832,
+				"y": -0.2363,
+				"cluster": 49,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 185.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 1999.0000,
+					"Avg. citations": 185.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 99,
+				"label": "nuno silva-soares",
+				"x": -0.1571,
+				"y": 0.4576,
+				"cluster": 10,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 18.0000,
+					"Documents": 3.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 0.9146
+				},
+				"scores": {
+					"Avg. pub. year": 2018.6667,
+					"Avg. citations": 5.0000,
+					"Avg. norm. citations": 0.3049
+				}
+			},
+			{
+				"id": 100,
+				"label": "patrick t. mcgrath",
+				"x": -0.1789,
+				"y": 0.5545,
+				"cluster": 10,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 18.0000,
+					"Documents": 3.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 0.9146
+				},
+				"scores": {
+					"Avg. pub. year": 2018.6667,
+					"Avg. citations": 5.0000,
+					"Avg. norm. citations": 0.3049
+				}
+			},
+			{
+				"id": 101,
+				"label": "paul vigne",
+				"x": -0.6122,
+				"y": 0.6480,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 23.0000,
+					"Documents": 3.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 3.3038
+				},
+				"scores": {
+					"Avg. pub. year": 2020.3333,
+					"Avg. citations": 4.3333,
+					"Avg. norm. citations": 1.1013
+				}
+			},
+			{
+				"id": 102,
+				"label": "paul w. sternberg",
+				"x": 0.0120,
+				"y": -0.4220,
+				"cluster": 50,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 0.4045
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 16.0000,
+					"Avg. norm. citations": 0.4045
+				}
+			},
+			{
+				"id": 103,
+				"label": "philipp verpukhovskiy",
+				"x": -0.4638,
+				"y": -0.5821,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 18.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 104,
+				"label": "pinelopi pliota",
+				"x": -0.2822,
+				"y": -0.4901,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 18.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 105,
+				"label": "rebecca e.w. kaplan",
+				"x": -0.3470,
+				"y": -0.8992,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 15.0000,
+					"Documents": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.4174
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.2087
+				}
+			},
+			{
+				"id": 106,
+				"label": "riaad persaud",
+				"x": 1.3631,
+				"y": 0.0322,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 62.0000,
+					"Documents": 5.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.7021
+				},
+				"scores": {
+					"Avg. pub. year": 2020.6000,
+					"Avg. citations": 1.6000,
+					"Avg. norm. citations": 0.3404
+				}
+			},
+			{
+				"id": 107,
+				"label": "richard jovelin",
+				"x": -0.3651,
+				"y": -0.0941,
+				"cluster": 6,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 22.0000,
+					"Documents": 4.0000,
+					"Citations": 143.0000,
+					"Norm. citations": 3.2609
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 35.7500,
+					"Avg. norm. citations": 0.8152
+				}
+			},
+			{
+				"id": 108,
+				"label": "robert j. micikas",
+				"x": -0.9014,
+				"y": 0.2149,
+				"cluster": 51,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 40.0000,
+					"Norm. citations": 1.7391
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 40.0000,
+					"Avg. norm. citations": 1.7391
+				}
+			},
+			{
+				"id": 109,
+				"label": "robyn e. tanny",
+				"x": 0.6183,
+				"y": 0.6251,
+				"cluster": 1,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 84.0000,
+					"Documents": 6.0000,
+					"Citations": 137.0000,
+					"Norm. citations": 12.4666
+				},
+				"scores": {
+					"Avg. pub. year": 2018.3333,
+					"Avg. citations": 22.8333,
+					"Avg. norm. citations": 2.0778
+				}
+			},
+			{
+				"id": 110,
+				"label": "rojin chirakar",
+				"x": 0.8650,
+				"y": 0.5597,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 42.0000,
+					"Documents": 3.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 10.0902
+				},
+				"scores": {
+					"Avg. pub. year": 2020.6667,
+					"Avg. citations": 14.3333,
+					"Avg. norm. citations": 3.3634
+				}
+			},
+			{
+				"id": 111,
+				"label": "rojin chitrakar",
+				"x": 1.2660,
+				"y": 0.3102,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 52.0000,
+					"Documents": 4.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.7021
+				},
+				"scores": {
+					"Avg. pub. year": 2020.7500,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 0.4255
+				}
+			},
+			{
+				"id": 112,
+				"label": "romain salle",
+				"x": -0.5475,
+				"y": -0.0925,
+				"cluster": 6,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 10.0000,
+					"Documents": 2.0000,
+					"Citations": 29.0000,
+					"Norm. citations": 1.2609
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 14.5000,
+					"Avg. norm. citations": 0.6304
+				}
+			},
+			{
+				"id": 113,
+				"label": "ryan d. bickel",
+				"x": -0.7251,
+				"y": -0.1572,
+				"cluster": 52,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 1.0000,
+					"Citations": 187.0000,
+					"Norm. citations": 1.5245
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 187.0000,
+					"Avg. norm. citations": 1.5245
+				}
+			},
+			{
+				"id": 114,
+				"label": "sally l glockling",
+				"x": 0.0971,
+				"y": -0.6605,
+				"cluster": 53,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 115,
+				"label": "sara carvalho",
+				"x": -0.3739,
+				"y": 0.3380,
+				"cluster": 54,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 10.0000,
+					"Documents": 2.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 0.4551
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 9.0000,
+					"Avg. norm. citations": 0.2275
+				}
+			},
+			{
+				"id": 116,
+				"label": "sarah fausett",
+				"x": 0.3711,
+				"y": -0.4214,
+				"cluster": 3,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 36.0000,
+					"Documents": 3.0000,
+					"Citations": 72.0000,
+					"Norm. citations": 4.5487
+				},
+				"scores": {
+					"Avg. pub. year": 2019.3333,
+					"Avg. citations": 24.0000,
+					"Avg. norm. citations": 1.5162
+				}
+			},
+			{
+				"id": 117,
+				"label": "shery han",
+				"x": -0.2781,
+				"y": 0.1408,
+				"cluster": 6,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 12.0000,
+					"Documents": 2.0000,
+					"Citations": 114.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 57.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 118,
+				"label": "sonia el mouridi",
+				"x": -0.7801,
+				"y": 0.5800,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 21.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 119,
+				"label": "sonya a. widen",
+				"x": -0.3508,
+				"y": -0.5726,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 18.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 120,
+				"label": "sridhar mandali",
+				"x": -0.5448,
+				"y": -0.5080,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 18.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 121,
+				"label": "srinivas kambhampati",
+				"x": -0.6983,
+				"y": -0.2311,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 10.0000,
+					"Documents": 2.0000,
+					"Citations": 355.0000,
+					"Norm. citations": 2.8940
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 177.5000,
+					"Avg. norm. citations": 1.4470
+				}
+			},
+			{
+				"id": 122,
+				"label": "staci thornton",
+				"x": -0.7477,
+				"y": 0.2980,
+				"cluster": 55,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Documents": 1.0000,
+					"Citations": 40.0000,
+					"Norm. citations": 1.7391
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 40.0000,
+					"Avg. norm. citations": 1.7391
+				}
+			},
+			{
+				"id": 123,
+				"label": "stefan zdraljevic",
+				"x": 0.3833,
+				"y": 0.5763,
+				"cluster": 1,
+				"weights": {
+					"Links": 30.0000,
+					"Total link strength": 126.0000,
+					"Documents": 11.0000,
+					"Citations": 179.0000,
+					"Norm. citations": 14.7900
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5455,
+					"Avg. citations": 16.2727,
+					"Avg. norm. citations": 1.3445
+				}
+			},
+			{
+				"id": 124,
+				"label": "stéphanie grimbert",
+				"x": -0.0257,
+				"y": -0.3392,
+				"cluster": 56,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Documents": 4.0000,
+					"Citations": 37.0000,
+					"Norm. citations": 1.9162
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5000,
+					"Avg. citations": 9.2500,
+					"Avg. norm. citations": 0.4790
+				}
+			},
+			{
+				"id": 125,
+				"label": "taniya kaur",
+				"x": 0.7344,
+				"y": -0.4914,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 31.0000,
+					"Documents": 2.0000,
+					"Citations": 72.0000,
+					"Norm. citations": 4.5487
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 36.0000,
+					"Avg. norm. citations": 2.2744
+				}
+			},
+			{
+				"id": 126,
+				"label": "tanya p. zand",
+				"x": -0.1623,
+				"y": -0.8379,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 15.0000,
+					"Documents": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.4174
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.2087
+				}
+			},
+			{
+				"id": 127,
+				"label": "tho son le",
+				"x": -0.3041,
+				"y": 1.0121,
+				"cluster": 57,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 128,
+				"label": "thomas boulin",
+				"x": -0.8791,
+				"y": 0.5216,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 21.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 129,
+				"label": "thomas brevig",
+				"x": -0.6753,
+				"y": -0.4283,
+				"cluster": 58,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 1.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.1060
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 13.0000,
+					"Avg. norm. citations": 0.1060
+				}
+			},
+			{
+				"id": 130,
+				"label": "thomas flatt",
+				"x": -0.1065,
+				"y": -0.2487,
+				"cluster": 59,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Documents": 2.0000,
+					"Citations": 110.0000,
+					"Norm. citations": 0.8867
+				},
+				"scores": {
+					"Avg. pub. year": 2008.5000,
+					"Avg. citations": 55.0000,
+					"Avg. norm. citations": 0.4433
+				}
+			},
+			{
+				"id": 131,
+				"label": "tiffany chang",
+				"x": -0.1381,
+				"y": 1.0452,
+				"cluster": 60,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 132,
+				"label": "timothy a. crombie",
+				"x": 0.9041,
+				"y": 0.8351,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 42.0000,
+					"Documents": 3.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 10.0902
+				},
+				"scores": {
+					"Avg. pub. year": 2020.6667,
+					"Avg. citations": 14.3333,
+					"Avg. norm. citations": 3.3634
+				}
+			},
+			{
+				"id": 133,
+				"label": "toni beltran",
+				"x": 0.7795,
+				"y": -0.3698,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 31.0000,
+					"Documents": 2.0000,
+					"Citations": 72.0000,
+					"Norm. citations": 4.5487
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 36.0000,
+					"Avg. norm. citations": 2.2744
+				}
+			},
+			{
+				"id": 134,
+				"label": "toru miura",
+				"x": -0.7944,
+				"y": -0.2635,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 10.0000,
+					"Documents": 2.0000,
+					"Citations": 355.0000,
+					"Norm. citations": 2.8940
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 177.5000,
+					"Avg. norm. citations": 1.4470
+				}
+			},
+			{
+				"id": 135,
+				"label": "tzitziki lemus-vergara",
+				"x": -0.5299,
+				"y": -0.4009,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 18.0000,
+					"Documents": 2.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6238
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.8119
+				}
+			},
+			{
+				"id": 136,
+				"label": "walter sudhaus",
+				"x": 0.6151,
+				"y": -0.5032,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 31.0000,
+					"Documents": 2.0000,
+					"Citations": 72.0000,
+					"Norm. citations": 4.5487
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 36.0000,
+					"Avg. norm. citations": 2.2744
+				}
+			},
+			{
+				"id": 137,
+				"label": "william a. foster",
+				"x": -0.0558,
+				"y": -0.2054,
+				"cluster": 61,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 138,
+				"label": "wolfgang w. weisser",
+				"x": -0.1470,
+				"y": -0.1848,
+				"cluster": 23,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 4.0000,
+					"Documents": 3.0000,
+					"Citations": 294.0000,
+					"Norm. citations": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2000.3333,
+					"Avg. citations": 98.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 139,
+				"label": "ye wang",
+				"x": 0.8532,
+				"y": 0.6924,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 42.0000,
+					"Documents": 3.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 10.0902
+				},
+				"scores": {
+					"Avg. pub. year": 2020.6667,
+					"Avg. citations": 14.3333,
+					"Avg. norm. citations": 3.3634
+				}
+			},
+			{
+				"id": 140,
+				"label": "young ran cho",
+				"x": -0.2126,
+				"y": -0.0417,
+				"cluster": 62,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 66.0000,
+					"Norm. citations": 1.1579
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 66.0000,
+					"Avg. norm. citations": 1.1579
+				}
+			},
+			{
+				"id": 141,
+				"label": "yun huang",
+				"x": -0.2195,
+				"y": 1.0865,
+				"cluster": 63,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 142,
+				"label": "yun-hua lo",
+				"x": -0.2249,
+				"y": 1.0084,
+				"cluster": 64,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 3,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 103,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 104,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 119,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 120,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 135,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 103,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 104,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 119,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 120,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 135,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 23,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 34,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 121,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 23,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 28,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 74,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 78,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 83,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 86,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 110,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 11,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 60,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 101,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 12,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 23,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 26,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 51,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 60,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 94,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 96,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 99,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 100,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 101,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 23,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 26,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 83,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 94,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 96,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 107,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 117,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 140,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 19,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 70,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 78,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 80,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 83,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 85,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 88,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 89,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 23,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 31,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 56,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 62,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 69,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 77,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 80,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 83,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 87,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 70,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 78,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 80,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 83,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 85,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 88,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 89,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 60,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 101,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 125,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 136,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 26,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 27,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 30,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 31,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 32,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 33,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 34,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 36,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 38,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 39,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 43,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 50,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 51,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 53,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 55,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 56,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 60,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 61,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 62,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 69,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 70,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 74,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 77,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 78,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 79,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 80,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 82,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 83,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 84,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 85,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 86,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 87,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 88,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 89,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 92,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 94,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 96,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 97,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 98,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 99,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 100,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 101,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 103,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 104,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 105,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 106,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 107,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 109,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 110,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 116,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 117,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 119,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 120,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 121,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 123,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 124,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 126,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 130,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 135,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 138,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 140,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 141,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 60,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 101,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 51,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 60,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 94,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 96,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 99,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 100,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 101,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 94,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 96,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 107,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 117,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 140,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 30,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 39,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 43,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 56,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 74,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 78,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 83,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 86,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 110,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 123,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 31,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 39,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 43,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 56,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 62,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 69,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 74,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 77,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 78,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 80,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 83,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 86,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 87,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 89,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 109,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 110,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 123,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 56,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 62,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 69,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 77,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 80,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 83,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 87,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 70,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 78,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 80,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 83,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 85,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 88,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 36,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 105,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 126,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 53,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 84,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 121,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 36,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 126,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 105,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 126,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 38,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 83,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 83,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 43,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 50,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 55,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 56,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 61,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 62,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 69,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 74,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 77,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 78,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 80,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 82,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 83,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 86,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 87,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 89,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 97,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 99,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 100,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 106,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 109,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 110,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 123,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 140,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 103,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 104,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 119,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 120,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 135,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 141,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 105,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 126,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 56,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 83,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 86,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 123,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 50,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 55,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 61,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 74,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 78,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 80,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 82,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 89,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 97,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 106,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 105,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 126,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 55,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 61,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 74,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 78,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 80,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 82,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 89,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 97,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 106,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 60,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 94,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 101,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 84,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 61,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 74,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 78,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 80,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 82,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 89,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 97,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 106,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 62,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 69,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 77,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 80,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 83,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 86,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 87,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 123,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 94,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 96,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 101,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 74,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 78,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 80,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 82,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 89,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 97,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 106,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 111,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 69,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 77,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 80,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 83,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 86,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 87,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 123,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 141,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 74,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 78,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 80,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 82,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 97,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 106,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 111,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 83,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 86,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 123,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 83,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 86,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 123,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 141,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 77,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 80,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 83,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 87,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 78,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 80,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 83,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 85,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 88,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 105,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 126,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 78,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 80,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 82,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 83,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 86,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 89,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 97,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 106,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 110,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 80,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 83,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 87,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 103,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 104,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 119,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 120,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 135,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 80,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 82,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 83,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 85,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 86,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 88,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 89,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 97,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 106,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 110,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 80,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 83,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 85,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 86,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 88,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 89,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 123,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 82,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 83,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 85,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 87,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 88,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 89,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 97,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 106,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 89,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 97,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 106,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 85,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 86,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 87,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 88,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 89,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 92,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 109,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 110,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 123,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 140,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 88,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 89,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 110,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 123,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 109,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 89,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 97,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 106,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 109,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 110,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 116,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 123,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 91,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 91,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 94,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 96,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 107,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 106,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 138,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 100,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 100,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 104,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 119,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 120,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 135,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 119,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 120,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 135,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 126,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 106,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 117,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 140,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 110,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 123,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 123,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 125,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 140,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 118,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 120,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 135,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 120,
+				"target_id": 135,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 121,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 125,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 125,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 141,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 141,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 132,
+				"target_id": 139,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 133,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 142,
+				"strength": 1.0000
+			}
+		]
+	}
+}

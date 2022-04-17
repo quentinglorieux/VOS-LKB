@@ -142,6 +142,10 @@ export default (env = defaultEnv) => {
             to: absolute('dist', bundleName, 'data/JOI_2007-2016_co-authorship_map.txt'),
           },
           {
+            from: resolve(__dirname, 'data/rbw', ''),
+            to: absolute('dist', bundleName, 'data/'),
+          },
+          {
             from: resolve(__dirname, 'data', 'JOI_2007-2016_co-authorship_network.txt'),
             to: absolute('dist', bundleName, 'data/JOI_2007-2016_co-authorship_network.txt'),
           },
