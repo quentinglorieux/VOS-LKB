@@ -11451,7 +11451,10 @@
 	"config": {
 		"parameters": 
 			{
-				"curved_links": false
+				"item_color": 2,
+				"curved_links": true,
+				"dark_ui": true,
+				"show_info": false
 			}
 		}
 }
