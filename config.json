@@ -27,12 +27,12 @@
     "information_panel": true,
     "description_panel": true,
     "legend_panel": true,
-    "open_icon": true,
+    "open_icon": false,
     "save_icon": true,
-    "share_icon": true,
+    "share_icon": false,
     "screenshot_icon": true,
     "background_icon": true,
-    "fullscreen_icon": true
+    "fullscreen_icon": false
   },
   "simple_mode": {
     "control_panel": {
@@ -53,7 +53,7 @@
       "update": false
     },
     "url_preview_panel": false,
-    "zoom_panel": true,
+    "zoom_panel": false,
     "information_panel": true,
     "description_panel": true,
     "legend_panel": true,
