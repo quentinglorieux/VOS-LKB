@@ -4,9 +4,9 @@
 			{
 				"id": 99,
 				"label": "adn",
-				"x": 1.3112,
-				"y": 0.3962,
-				"cluster": 9,
+				"x": 0.9534,
+				"y": 0.8001,
+				"cluster": 10,
 				"weights": {
 					"Links": 5.0000,
 					"Total link strength": 13.0000,
@@ -19,24 +19,24 @@
 			{
 				"id": 132,
 				"label": "atom chip",
-				"x": 0.4876,
-				"y": -0.2925,
+				"x": 0.5211,
+				"y": 0.1750,
 				"cluster": 1,
 				"weights": {
-					"Links": 13.0000,
-					"Total link strength": 34.0000,
-					"Occurrences": 13.0000
+					"Links": 16.0000,
+					"Total link strength": 33.0000,
+					"Occurrences": 15.0000
 				},
 				"scores": {
-					"Avg. pub. year": 2010.0000
+					"Avg. pub. year": 2010.2000
 				}
 			},
 			{
 				"id": 136,
 				"label": "atom laser",
-				"x": 0.3513,
-				"y": 0.1940,
-				"cluster": 7,
+				"x": 0.1722,
+				"y": 0.6612,
+				"cluster": 6,
 				"weights": {
 					"Links": 12.0000,
 					"Total link strength": 21.0000,
@@ -49,9 +49,9 @@
 			{
 				"id": 137,
 				"label": "atom lasers",
-				"x": -0.3594,
-				"y": 0.1443,
-				"cluster": 13,
+				"x": -0.3483,
+				"y": -0.1071,
+				"cluster": 9,
 				"weights": {
 					"Links": 9.0000,
 					"Total link strength": 10.0000,
@@ -64,9 +64,9 @@
 			{
 				"id": 139,
 				"label": "atom optics",
-				"x": -0.2833,
-				"y": 0.1593,
-				"cluster": 13,
+				"x": -0.3238,
+				"y": -0.1777,
+				"cluster": 9,
 				"weights": {
 					"Links": 3.0000,
 					"Total link strength": 4.0000,
@@ -79,8 +79,8 @@
 			{
 				"id": 141,
 				"label": "atom traps and guides",
-				"x": 0.5130,
-				"y": -0.7062,
+				"x": 0.5862,
+				"y": 0.5804,
 				"cluster": 12,
 				"weights": {
 					"Links": 1.0000,
@@ -94,8 +94,8 @@
 			{
 				"id": 148,
 				"label": "atome à deux niveaux",
-				"x": 1.1121,
-				"y": -0.1050,
+				"x": 1.0146,
+				"y": -0.2017,
 				"cluster": 1,
 				"weights": {
 					"Links": 6.0000,
@@ -109,42 +109,27 @@
 			{
 				"id": 152,
 				"label": "atomes de rydberg",
-				"x": 0.9623,
-				"y": -0.2204,
+				"x": 0.8694,
+				"y": -0.2692,
 				"cluster": 1,
 				"weights": {
-					"Links": 20.0000,
-					"Total link strength": 52.0000,
-					"Occurrences": 16.0000
+					"Links": 19.0000,
+					"Total link strength": 57.0000,
+					"Occurrences": 19.0000
 				},
 				"scores": {
-					"Avg. pub. year": 2004.6875
+					"Avg. pub. year": 2005.3158
 				}
 			},
 			{
-				"id": 153,
-				"label": "atomes de rydberg circulaires",
-				"x": 0.8858,
-				"y": -0.3085,
-				"cluster": 1,
-				"weights": {
-					"Links": 6.0000,
-					"Total link strength": 7.0000,
-					"Occurrences": 3.0000
-				},
-				"scores": {
-					"Avg. pub. year": 2008.6667
-				}
-			},
-			{
-				"id": 155,
+				"id": 154,
 				"label": "atomes froids",
-				"x": -0.3041,
-				"y": 0.0245,
+				"x": -0.2901,
+				"y": -0.0284,
 				"cluster": 2,
 				"weights": {
-					"Links": 77.0000,
-					"Total link strength": 184.0000,
+					"Links": 76.0000,
+					"Total link strength": 179.0000,
 					"Occurrences": 62.0000
 				},
 				"scores": {
@@ -152,11 +137,11 @@
 				}
 			},
 			{
-				"id": 162,
+				"id": 161,
 				"label": "atomic beam",
-				"x": 0.3977,
-				"y": 0.3142,
-				"cluster": 7,
+				"x": 0.1104,
+				"y": 0.7061,
+				"cluster": 6,
 				"weights": {
 					"Links": 5.0000,
 					"Total link strength": 5.0000,
@@ -167,10 +152,10 @@
 				}
 			},
 			{
-				"id": 176,
+				"id": 175,
 				"label": "atomic parity violation",
-				"x": 0.6120,
-				"y": 0.8776,
+				"x": 1.1676,
+				"y": 0.3169,
 				"cluster": 8,
 				"weights": {
 					"Links": 2.0000,
@@ -182,13 +167,13 @@
 				}
 			},
 			{
-				"id": 192,
+				"id": 191,
 				"label": "basse dimension",
-				"x": -0.4165,
-				"y": -0.7889,
+				"x": -0.5600,
+				"y": 0.6187,
 				"cluster": 5,
 				"weights": {
-					"Links": 12.0000,
+					"Links": 11.0000,
 					"Total link strength": 32.0000,
 					"Occurrences": 6.0000
 				},
@@ -197,14 +182,14 @@
 				}
 			},
 			{
-				"id": 201,
+				"id": 200,
 				"label": "bcs theory",
-				"x": -0.1135,
-				"y": -0.3579,
-				"cluster": 4,
+				"x": -0.1844,
+				"y": 0.2494,
+				"cluster": 3,
 				"weights": {
-					"Links": 10.0000,
-					"Total link strength": 18.0000,
+					"Links": 9.0000,
+					"Total link strength": 17.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -212,14 +197,14 @@
 				}
 			},
 			{
-				"id": 203,
+				"id": 202,
 				"label": "bec",
-				"x": 0.0494,
-				"y": -0.1127,
-				"cluster": 4,
+				"x": 0.0418,
+				"y": 0.0557,
+				"cluster": 3,
 				"weights": {
-					"Links": 59.0000,
-					"Total link strength": 105.0000,
+					"Links": 58.0000,
+					"Total link strength": 101.0000,
 					"Occurrences": 46.0000
 				},
 				"scores": {
@@ -227,10 +212,10 @@
 				}
 			},
 			{
-				"id": 205,
+				"id": 204,
 				"label": "bec-bcs crossover",
-				"x": -0.8305,
-				"y": -0.2458,
+				"x": -0.9041,
+				"y": 0.0905,
 				"cluster": 2,
 				"weights": {
 					"Links": 16.0000,
@@ -242,10 +227,10 @@
 				}
 			},
 			{
-				"id": 210,
+				"id": 209,
 				"label": "bell theorem",
-				"x": 1.2296,
-				"y": -0.6080,
+				"x": 1.1262,
+				"y": -0.7173,
 				"cluster": 11,
 				"weights": {
 					"Links": 5.0000,
@@ -257,13 +242,13 @@
 				}
 			},
 			{
-				"id": 227,
+				"id": 226,
 				"label": "blocage dipolaire",
-				"x": 0.7824,
-				"y": -0.2973,
+				"x": 0.6267,
+				"y": -0.1383,
 				"cluster": 1,
 				"weights": {
-					"Links": 5.0000,
+					"Links": 4.0000,
 					"Total link strength": 6.0000,
 					"Occurrences": 3.0000
 				},
@@ -272,29 +257,14 @@
 				}
 			},
 			{
-				"id": 239,
-				"label": "bose--einstein condensation",
-				"x": -0.5039,
-				"y": -0.8590,
-				"cluster": 5,
-				"weights": {
-					"Links": 10.0000,
-					"Total link strength": 21.0000,
-					"Occurrences": 4.0000
-				},
-				"scores": {
-					"Avg. pub. year": 2013.0000
-				}
-			},
-			{
-				"id": 270,
+				"id": 268,
 				"label": "cavity",
-				"x": 0.4201,
-				"y": -0.3573,
-				"cluster": 1,
+				"x": 0.4093,
+				"y": 0.0932,
+				"cluster": 3,
 				"weights": {
-					"Links": 5.0000,
-					"Total link strength": 5.0000,
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
 					"Occurrences": 3.0000
 				},
 				"scores": {
@@ -302,29 +272,29 @@
 				}
 			},
 			{
-				"id": 271,
+				"id": 269,
 				"label": "cavity qed",
-				"x": 0.7628,
-				"y": -0.1291,
+				"x": 0.7153,
+				"y": -0.0686,
 				"cluster": 1,
 				"weights": {
-					"Links": 29.0000,
-					"Total link strength": 58.0000,
-					"Occurrences": 22.0000
+					"Links": 27.0000,
+					"Total link strength": 56.0000,
+					"Occurrences": 23.0000
 				},
 				"scores": {
-					"Avg. pub. year": 2006.3182
+					"Avg. pub. year": 2005.9130
 				}
 			},
 			{
-				"id": 279,
+				"id": 277,
 				"label": "cavité supraconductrice",
-				"x": 1.0490,
-				"y": -0.1852,
+				"x": 1.0636,
+				"y": -0.2820,
 				"cluster": 1,
 				"weights": {
-					"Links": 12.0000,
-					"Total link strength": 22.0000,
+					"Links": 11.0000,
+					"Total link strength": 21.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -332,10 +302,10 @@
 				}
 			},
 			{
-				"id": 287,
+				"id": 285,
 				"label": "cesium atoms",
-				"x": 0.2730,
-				"y": 0.5496,
+				"x": 0.5552,
+				"y": 0.0569,
 				"cluster": 8,
 				"weights": {
 					"Links": 26.0000,
@@ -347,11 +317,11 @@
 				}
 			},
 			{
-				"id": 297,
+				"id": 295,
 				"label": "chaos",
-				"x": 0.3677,
-				"y": 0.1018,
-				"cluster": 7,
+				"x": 0.2171,
+				"y": 0.7515,
+				"cluster": 6,
 				"weights": {
 					"Links": 2.0000,
 					"Total link strength": 3.0000,
@@ -362,11 +332,11 @@
 				}
 			},
 			{
-				"id": 325,
+				"id": 323,
 				"label": "coherence time",
-				"x": -0.0981,
-				"y": -0.1086,
-				"cluster": 4,
+				"x": -0.0792,
+				"y": -0.0474,
+				"cluster": 3,
 				"weights": {
 					"Links": 7.0000,
 					"Total link strength": 10.0000,
@@ -377,11 +347,11 @@
 				}
 			},
 			{
-				"id": 334,
+				"id": 332,
 				"label": "cold collisions",
-				"x": 0.1372,
-				"y": -0.0389,
-				"cluster": 7,
+				"x": 0.0467,
+				"y": 0.2119,
+				"cluster": 6,
 				"weights": {
 					"Links": 11.0000,
 					"Total link strength": 17.0000,
@@ -392,11 +362,11 @@
 				}
 			},
 			{
-				"id": 336,
+				"id": 334,
 				"label": "cold molecules",
-				"x": -0.6055,
-				"y": 0.5913,
-				"cluster": 3,
+				"x": -0.4065,
+				"y": -0.6425,
+				"cluster": 4,
 				"weights": {
 					"Links": 6.0000,
 					"Total link strength": 9.0000,
@@ -407,14 +377,14 @@
 				}
 			},
 			{
-				"id": 341,
+				"id": 339,
 				"label": "collective modes",
-				"x": -0.2471,
-				"y": -0.3978,
-				"cluster": 4,
+				"x": -0.3222,
+				"y": 0.3300,
+				"cluster": 3,
 				"weights": {
-					"Links": 13.0000,
-					"Total link strength": 22.0000,
+					"Links": 12.0000,
+					"Total link strength": 21.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -422,14 +392,14 @@
 				}
 			},
 			{
-				"id": 365,
+				"id": 363,
 				"label": "condensat de paires",
-				"x": -0.1919,
-				"y": -0.3262,
-				"cluster": 4,
+				"x": -0.2708,
+				"y": 0.2191,
+				"cluster": 3,
 				"weights": {
-					"Links": 12.0000,
-					"Total link strength": 18.0000,
+					"Links": 11.0000,
+					"Total link strength": 17.0000,
 					"Occurrences": 3.0000
 				},
 				"scores": {
@@ -437,25 +407,25 @@
 				}
 			},
 			{
-				"id": 369,
+				"id": 367,
 				"label": "condensation",
-				"x": -0.0391,
-				"y": -0.2515,
+				"x": -0.2674,
+				"y": 0.4643,
 				"cluster": 5,
 				"weights": {
-					"Links": 41.0000,
-					"Total link strength": 68.0000,
-					"Occurrences": 30.0000
+					"Links": 40.0000,
+					"Total link strength": 86.0000,
+					"Occurrences": 34.0000
 				},
 				"scores": {
-					"Avg. pub. year": 2006.3667
+					"Avg. pub. year": 2007.1471
 				}
 			},
 			{
-				"id": 370,
+				"id": 368,
 				"label": "condensation de bose--einstein",
-				"x": -0.6020,
-				"y": -0.8401,
+				"x": -0.7224,
+				"y": 0.7250,
 				"cluster": 5,
 				"weights": {
 					"Links": 9.0000,
@@ -467,13 +437,13 @@
 				}
 			},
 			{
-				"id": 395,
+				"id": 393,
 				"label": "cqed",
-				"x": 0.8829,
-				"y": -0.4450,
+				"x": 0.7619,
+				"y": -0.5275,
 				"cluster": 1,
 				"weights": {
-					"Links": 9.0000,
+					"Links": 8.0000,
 					"Total link strength": 16.0000,
 					"Occurrences": 4.0000
 				},
@@ -482,11 +452,11 @@
 				}
 			},
 			{
-				"id": 399,
+				"id": 397,
 				"label": "critical temperature",
-				"x": 0.1755,
-				"y": -0.2577,
-				"cluster": 4,
+				"x": -0.0431,
+				"y": 0.4211,
+				"cluster": 3,
 				"weights": {
 					"Links": 2.0000,
 					"Total link strength": 4.0000,
@@ -497,14 +467,14 @@
 				}
 			},
 			{
-				"id": 400,
+				"id": 398,
 				"label": "critical velocity",
-				"x": -0.4706,
-				"y": -0.0510,
-				"cluster": 6,
+				"x": -0.4986,
+				"y": -0.1599,
+				"cluster": 7,
 				"weights": {
-					"Links": 10.0000,
-					"Total link strength": 16.0000,
+					"Links": 9.0000,
+					"Total link strength": 15.0000,
 					"Occurrences": 3.0000
 				},
 				"scores": {
@@ -512,11 +482,11 @@
 				}
 			},
 			{
-				"id": 410,
+				"id": 408,
 				"label": "d1 gray molasses",
-				"x": -0.9824,
-				"y": 0.4950,
-				"cluster": 6,
+				"x": -0.7954,
+				"y": -0.6799,
+				"cluster": 7,
 				"weights": {
 					"Links": 9.0000,
 					"Total link strength": 22.0000,
@@ -527,14 +497,14 @@
 				}
 			},
 			{
-				"id": 414,
+				"id": 412,
 				"label": "decoherence",
-				"x": 0.7884,
-				"y": -0.2010,
+				"x": 0.7031,
+				"y": -0.2956,
 				"cluster": 1,
 				"weights": {
-					"Links": 19.0000,
-					"Total link strength": 40.0000,
+					"Links": 18.0000,
+					"Total link strength": 39.0000,
 					"Occurrences": 14.0000
 				},
 				"scores": {
@@ -542,11 +512,11 @@
 				}
 			},
 			{
-				"id": 417,
+				"id": 415,
 				"label": "degenerate fermi gas",
-				"x": -0.0911,
-				"y": 0.1261,
-				"cluster": 7,
+				"x": -0.0604,
+				"y": 0.0592,
+				"cluster": 6,
 				"weights": {
 					"Links": 10.0000,
 					"Total link strength": 11.0000,
@@ -557,10 +527,10 @@
 				}
 			},
 			{
-				"id": 419,
+				"id": 417,
 				"label": "degenerate fermions",
-				"x": -0.7630,
-				"y": -0.2026,
+				"x": -0.9853,
+				"y": 0.1584,
 				"cluster": 2,
 				"weights": {
 					"Links": 10.0000,
@@ -572,11 +542,11 @@
 				}
 			},
 			{
-				"id": 450,
+				"id": 448,
 				"label": "diffusion spatiale",
-				"x": -0.0757,
-				"y": 0.6085,
-				"cluster": 10,
+				"x": 0.1549,
+				"y": -0.4204,
+				"cluster": 9,
 				"weights": {
 					"Links": 9.0000,
 					"Total link strength": 18.0000,
@@ -587,11 +557,11 @@
 				}
 			},
 			{
-				"id": 462,
+				"id": 460,
 				"label": "diode-pumped solid state lasers",
-				"x": -0.8975,
-				"y": 0.2996,
-				"cluster": 6,
+				"x": -0.7851,
+				"y": -0.4869,
+				"cluster": 7,
 				"weights": {
 					"Links": 12.0000,
 					"Total link strength": 15.0000,
@@ -602,11 +572,11 @@
 				}
 			},
 			{
-				"id": 467,
+				"id": 465,
 				"label": "dipole trap",
-				"x": 0.3226,
-				"y": 0.3431,
-				"cluster": 7,
+				"x": 0.0306,
+				"y": 0.6867,
+				"cluster": 6,
 				"weights": {
 					"Links": 7.0000,
 					"Total link strength": 12.0000,
@@ -617,11 +587,11 @@
 				}
 			},
 			{
-				"id": 469,
+				"id": 467,
 				"label": "directed transport",
-				"x": -0.2037,
-				"y": 0.8254,
-				"cluster": 10,
+				"x": 0.1468,
+				"y": -0.7135,
+				"cluster": 9,
 				"weights": {
 					"Links": 2.0000,
 					"Total link strength": 5.0000,
@@ -632,11 +602,11 @@
 				}
 			},
 			{
-				"id": 470,
+				"id": 468,
 				"label": "disorder",
-				"x": 0.0269,
-				"y": 0.0627,
-				"cluster": 4,
+				"x": 0.1565,
+				"y": -0.1544,
+				"cluster": 3,
 				"weights": {
 					"Links": 4.0000,
 					"Total link strength": 4.0000,
@@ -647,11 +617,11 @@
 				}
 			},
 			{
-				"id": 476,
+				"id": 474,
 				"label": "doublage de fréquence",
-				"x": -0.8528,
-				"y": 0.3879,
-				"cluster": 6,
+				"x": -0.8203,
+				"y": -0.5715,
+				"cluster": 7,
 				"weights": {
 					"Links": 13.0000,
 					"Total link strength": 22.0000,
@@ -662,11 +632,11 @@
 				}
 			},
 			{
-				"id": 510,
+				"id": 508,
 				"label": "effet sisyphe",
-				"x": 0.0119,
-				"y": 0.6631,
-				"cluster": 10,
+				"x": 0.2641,
+				"y": -0.4285,
+				"cluster": 9,
 				"weights": {
 					"Links": 6.0000,
 					"Total link strength": 12.0000,
@@ -677,10 +647,10 @@
 				}
 			},
 			{
-				"id": 516,
+				"id": 514,
 				"label": "efimov effect",
-				"x": -1.0342,
-				"y": -0.1822,
+				"x": -1.0525,
+				"y": -0.1046,
 				"cluster": 2,
 				"weights": {
 					"Links": 10.0000,
@@ -692,25 +662,10 @@
 				}
 			},
 			{
-				"id": 524,
-				"label": "electrodynamique quantique en cavité",
-				"x": 0.9949,
-				"y": -0.1332,
-				"cluster": 1,
-				"weights": {
-					"Links": 10.0000,
-					"Total link strength": 11.0000,
-					"Occurrences": 3.0000
-				},
-				"scores": {
-					"Avg. pub. year": 2000.3333
-				}
-			},
-			{
-				"id": 535,
+				"id": 532,
 				"label": "entanglement",
-				"x": 1.0307,
-				"y": -0.0395,
+				"x": 0.7669,
+				"y": -0.2357,
 				"cluster": 1,
 				"weights": {
 					"Links": 6.0000,
@@ -722,13 +677,13 @@
 				}
 			},
 			{
-				"id": 545,
+				"id": 542,
 				"label": "equation of state",
-				"x": -0.5709,
-				"y": -0.6077,
+				"x": -0.6568,
+				"y": 0.4859,
 				"cluster": 5,
 				"weights": {
-					"Links": 17.0000,
+					"Links": 16.0000,
 					"Total link strength": 37.0000,
 					"Occurrences": 7.0000
 				},
@@ -737,11 +692,11 @@
 				}
 			},
 			{
-				"id": 558,
+				"id": 555,
 				"label": "evaporative cooling",
-				"x": 0.1218,
-				"y": 0.1118,
-				"cluster": 7,
+				"x": 0.0471,
+				"y": 0.3050,
+				"cluster": 6,
 				"weights": {
 					"Links": 15.0000,
 					"Total link strength": 30.0000,
@@ -752,10 +707,10 @@
 				}
 			},
 			{
-				"id": 576,
+				"id": 573,
 				"label": "fermi gas",
-				"x": -0.6696,
-				"y": -0.4163,
+				"x": -0.7156,
+				"y": 0.2863,
 				"cluster": 5,
 				"weights": {
 					"Links": 5.0000,
@@ -767,26 +722,11 @@
 				}
 			},
 			{
-				"id": 577,
-				"label": "fermi gases",
-				"x": -0.5959,
-				"y": -0.3425,
-				"cluster": 2,
-				"weights": {
-					"Links": 29.0000,
-					"Total link strength": 52.0000,
-					"Occurrences": 14.0000
-				},
-				"scores": {
-					"Avg. pub. year": 2014.0000
-				}
-			},
-			{
-				"id": 579,
+				"id": 575,
 				"label": "fermi mixtures",
-				"x": -0.9248,
-				"y": 0.6005,
-				"cluster": 6,
+				"x": -0.6489,
+				"y": -0.7784,
+				"cluster": 7,
 				"weights": {
 					"Links": 8.0000,
 					"Total link strength": 19.0000,
@@ -797,10 +737,10 @@
 				}
 			},
 			{
-				"id": 580,
+				"id": 576,
 				"label": "fermi polaron",
-				"x": -1.0211,
-				"y": -0.3390,
+				"x": -1.1249,
+				"y": 0.0668,
 				"cluster": 2,
 				"weights": {
 					"Links": 3.0000,
@@ -812,10 +752,10 @@
 				}
 			},
 			{
-				"id": 593,
+				"id": 589,
 				"label": "fermions",
-				"x": -0.8832,
-				"y": 0.0093,
+				"x": -0.8834,
+				"y": -0.2370,
 				"cluster": 2,
 				"weights": {
 					"Links": 13.0000,
@@ -827,10 +767,10 @@
 				}
 			},
 			{
-				"id": 594,
+				"id": 590,
 				"label": "fermions dégénérés",
-				"x": -0.6929,
-				"y": -0.1298,
+				"x": -0.7810,
+				"y": 0.0770,
 				"cluster": 2,
 				"weights": {
 					"Links": 12.0000,
@@ -842,10 +782,10 @@
 				}
 			},
 			{
-				"id": 597,
+				"id": 593,
 				"label": "feshbach resonance",
-				"x": -0.7925,
-				"y": -0.1121,
+				"x": -0.8283,
+				"y": -0.0083,
 				"cluster": 2,
 				"weights": {
 					"Links": 22.0000,
@@ -857,11 +797,11 @@
 				}
 			},
 			{
-				"id": 614,
+				"id": 610,
 				"label": "finite temperature",
-				"x": -0.0652,
-				"y": 0.0351,
-				"cluster": 4,
+				"x": 0.0369,
+				"y": -0.1836,
+				"cluster": 3,
 				"weights": {
 					"Links": 4.0000,
 					"Total link strength": 5.0000,
@@ -872,11 +812,11 @@
 				}
 			},
 			{
-				"id": 620,
+				"id": 616,
 				"label": "fluorescence microscopy",
-				"x": 1.3727,
-				"y": 0.3729,
-				"cluster": 9,
+				"x": 1.0524,
+				"y": 0.7490,
+				"cluster": 10,
 				"weights": {
 					"Links": 5.0000,
 					"Total link strength": 13.0000,
@@ -887,13 +827,13 @@
 				}
 			},
 			{
-				"id": 625,
+				"id": 621,
 				"label": "fock states",
-				"x": 0.8377,
-				"y": -0.3937,
+				"x": 0.7758,
+				"y": -0.4517,
 				"cluster": 1,
 				"weights": {
-					"Links": 9.0000,
+					"Links": 8.0000,
 					"Total link strength": 16.0000,
 					"Occurrences": 4.0000
 				},
@@ -902,10 +842,10 @@
 				}
 			},
 			{
-				"id": 636,
+				"id": 632,
 				"label": "forbidden transition",
-				"x": 0.5158,
-				"y": 0.6894,
+				"x": 0.9692,
+				"y": 0.2050,
 				"cluster": 8,
 				"weights": {
 					"Links": 6.0000,
@@ -917,11 +857,11 @@
 				}
 			},
 			{
-				"id": 650,
+				"id": 646,
 				"label": "frequency doubling",
-				"x": -0.9467,
-				"y": 0.3731,
-				"cluster": 6,
+				"x": -0.7221,
+				"y": -0.5576,
+				"cluster": 7,
 				"weights": {
 					"Links": 13.0000,
 					"Total link strength": 23.0000,
@@ -932,11 +872,11 @@
 				}
 			},
 			{
-				"id": 671,
+				"id": 667,
 				"label": "gaz de bose unitaire",
-				"x": -0.6857,
-				"y": 0.1505,
-				"cluster": 6,
+				"x": -0.6741,
+				"y": -0.3236,
+				"cluster": 7,
 				"weights": {
 					"Links": 13.0000,
 					"Total link strength": 14.0000,
@@ -947,29 +887,29 @@
 				}
 			},
 			{
-				"id": 675,
+				"id": 671,
 				"label": "gaz de fermions",
-				"x": -0.4852,
-				"y": -0.2413,
+				"x": -0.6684,
+				"y": 0.1718,
 				"cluster": 2,
 				"weights": {
-					"Links": 27.0000,
-					"Total link strength": 40.0000,
-					"Occurrences": 8.0000
+					"Links": 32.0000,
+					"Total link strength": 52.0000,
+					"Occurrences": 16.0000
 				},
 				"scores": {
-					"Avg. pub. year": 2016.8750
+					"Avg. pub. year": 2014.1250
 				}
 			},
 			{
-				"id": 687,
+				"id": 683,
 				"label": "gaz quantiques",
-				"x": -0.7738,
-				"y": 0.0288,
-				"cluster": 6,
+				"x": -0.7331,
+				"y": -0.1938,
+				"cluster": 7,
 				"weights": {
-					"Links": 44.0000,
-					"Total link strength": 89.0000,
+					"Links": 43.0000,
+					"Total link strength": 88.0000,
 					"Occurrences": 24.0000
 				},
 				"scores": {
@@ -977,25 +917,25 @@
 				}
 			},
 			{
-				"id": 690,
+				"id": 686,
 				"label": "gaz ultrafroids",
-				"x": -0.5965,
-				"y": 0.2236,
-				"cluster": 3,
+				"x": -0.5642,
+				"y": -0.3046,
+				"cluster": 4,
 				"weights": {
-					"Links": 10.0000,
-					"Total link strength": 14.0000,
-					"Occurrences": 4.0000
+					"Links": 13.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 7.0000
 				},
 				"scores": {
-					"Avg. pub. year": 2014.2500
+					"Avg. pub. year": 2012.2857
 				}
 			},
 			{
-				"id": 702,
+				"id": 698,
 				"label": "ghz theorem",
-				"x": 1.2498,
-				"y": -0.5542,
+				"x": 1.1545,
+				"y": -0.6655,
 				"cluster": 11,
 				"weights": {
 					"Links": 3.0000,
@@ -1007,11 +947,11 @@
 				}
 			},
 			{
-				"id": 741,
+				"id": 737,
 				"label": "helium",
-				"x": -0.4207,
-				"y": 0.4570,
-				"cluster": 3,
+				"x": -0.2769,
+				"y": -0.4603,
+				"cluster": 4,
 				"weights": {
 					"Links": 6.0000,
 					"Total link strength": 6.0000,
@@ -1022,11 +962,11 @@
 				}
 			},
 			{
-				"id": 742,
+				"id": 738,
 				"label": "helium 3",
-				"x": -0.5430,
-				"y": 0.3650,
-				"cluster": 3,
+				"x": -0.4059,
+				"y": -0.4013,
+				"cluster": 4,
 				"weights": {
 					"Links": 5.0000,
 					"Total link strength": 5.0000,
@@ -1037,11 +977,11 @@
 				}
 			},
 			{
-				"id": 746,
+				"id": 742,
 				"label": "helium-3",
-				"x": -0.1271,
-				"y": 0.4153,
-				"cluster": 3,
+				"x": -0.0159,
+				"y": -0.4232,
+				"cluster": 4,
 				"weights": {
 					"Links": 3.0000,
 					"Total link strength": 4.0000,
@@ -1052,10 +992,10 @@
 				}
 			},
 			{
-				"id": 761,
+				"id": 757,
 				"label": "homodyne detection",
-				"x": 0.7308,
-				"y": 0.3545,
+				"x": 1.0500,
+				"y": -0.0463,
 				"cluster": 8,
 				"weights": {
 					"Links": 8.0000,
@@ -1067,14 +1007,14 @@
 				}
 			},
 			{
-				"id": 772,
+				"id": 768,
 				"label": "hydrodynamique quantique",
-				"x": -0.3599,
-				"y": -0.2303,
-				"cluster": 4,
+				"x": -0.4456,
+				"y": 0.1036,
+				"cluster": 3,
 				"weights": {
-					"Links": 13.0000,
-					"Total link strength": 22.0000,
+					"Links": 12.0000,
+					"Total link strength": 21.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -1082,11 +1022,11 @@
 				}
 			},
 			{
-				"id": 785,
+				"id": 781,
 				"label": "hélium métastable",
-				"x": -0.3332,
-				"y": 0.2613,
-				"cluster": 3,
+				"x": -0.2133,
+				"y": -0.1401,
+				"cluster": 4,
 				"weights": {
 					"Links": 15.0000,
 					"Total link strength": 23.0000,
@@ -1097,10 +1037,10 @@
 				}
 			},
 			{
-				"id": 808,
+				"id": 804,
 				"label": "information quantique",
-				"x": 0.7118,
-				"y": -0.0453,
+				"x": 0.7842,
+				"y": 0.0210,
 				"cluster": 1,
 				"weights": {
 					"Links": 8.0000,
@@ -1112,14 +1052,14 @@
 				}
 			},
 			{
-				"id": 842,
+				"id": 838,
 				"label": "interferometry",
-				"x": 0.4771,
-				"y": -0.1193,
+				"x": 0.3933,
+				"y": -0.0436,
 				"cluster": 1,
 				"weights": {
-					"Links": 5.0000,
-					"Total link strength": 5.0000,
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
 					"Occurrences": 3.0000
 				},
 				"scores": {
@@ -1127,14 +1067,14 @@
 				}
 			},
 			{
-				"id": 845,
+				"id": 841,
 				"label": "interférométrie atomique",
-				"x": 1.0886,
-				"y": -0.2898,
+				"x": 1.0595,
+				"y": -0.3889,
 				"cluster": 1,
 				"weights": {
-					"Links": 8.0000,
-					"Total link strength": 13.0000,
+					"Links": 7.0000,
+					"Total link strength": 12.0000,
 					"Occurrences": 3.0000
 				},
 				"scores": {
@@ -1142,10 +1082,10 @@
 				}
 			},
 			{
-				"id": 854,
+				"id": 850,
 				"label": "intrication",
-				"x": 0.9516,
-				"y": -0.0376,
+				"x": 0.8195,
+				"y": -0.1688,
 				"cluster": 1,
 				"weights": {
 					"Links": 6.0000,
@@ -1157,14 +1097,14 @@
 				}
 			},
 			{
-				"id": 860,
+				"id": 856,
 				"label": "invariance d'échelle",
-				"x": -0.6312,
-				"y": -0.6989,
+				"x": -0.7846,
+				"y": 0.5835,
 				"cluster": 5,
 				"weights": {
-					"Links": 16.0000,
-					"Total link strength": 25.0000,
+					"Links": 14.0000,
+					"Total link strength": 24.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -1172,10 +1112,10 @@
 				}
 			},
 			{
-				"id": 881,
+				"id": 877,
 				"label": "kosterlitz-thouless transition",
-				"x": -0.1003,
-				"y": -0.5754,
+				"x": -0.3669,
+				"y": 0.6388,
 				"cluster": 5,
 				"weights": {
 					"Links": 4.0000,
@@ -1187,13 +1127,13 @@
 				}
 			},
 			{
-				"id": 892,
+				"id": 888,
 				"label": "laser cooling",
-				"x": -0.2476,
-				"y": 0.3031,
-				"cluster": 6,
+				"x": -0.1823,
+				"y": -0.2470,
+				"cluster": 9,
 				"weights": {
-					"Links": 36.0000,
+					"Links": 35.0000,
 					"Total link strength": 74.0000,
 					"Occurrences": 20.0000
 				},
@@ -1202,11 +1142,11 @@
 				}
 			},
 			{
-				"id": 905,
+				"id": 901,
 				"label": "laser à atomes",
-				"x": 0.3046,
-				"y": 0.2620,
-				"cluster": 7,
+				"x": 0.0637,
+				"y": 0.6121,
+				"cluster": 6,
 				"weights": {
 					"Links": 11.0000,
 					"Total link strength": 17.0000,
@@ -1217,11 +1157,11 @@
 				}
 			},
 			{
-				"id": 941,
+				"id": 937,
 				"label": "lithium",
-				"x": 0.0605,
-				"y": -0.0315,
-				"cluster": 7,
+				"x": 0.0652,
+				"y": -0.0333,
+				"cluster": 6,
 				"weights": {
 					"Links": 18.0000,
 					"Total link strength": 21.0000,
@@ -1232,11 +1172,11 @@
 				}
 			},
 			{
-				"id": 943,
+				"id": 939,
 				"label": "lithium-potassium",
-				"x": -0.7680,
-				"y": 0.5023,
-				"cluster": 6,
+				"x": -0.5767,
+				"y": -0.6399,
+				"cluster": 7,
 				"weights": {
 					"Links": 14.0000,
 					"Total link strength": 35.0000,
@@ -1247,13 +1187,13 @@
 				}
 			},
 			{
-				"id": 954,
+				"id": 950,
 				"label": "low dimension",
-				"x": -0.5320,
-				"y": -0.7752,
+				"x": -0.6306,
+				"y": 0.7239,
 				"cluster": 5,
 				"weights": {
-					"Links": 11.0000,
+					"Links": 10.0000,
 					"Total link strength": 29.0000,
 					"Occurrences": 5.0000
 				},
@@ -1262,10 +1202,10 @@
 				}
 			},
 			{
-				"id": 957,
+				"id": 953,
 				"label": "low dimensionality",
-				"x": -0.1805,
-				"y": -0.6074,
+				"x": -0.3295,
+				"y": 0.5676,
 				"cluster": 5,
 				"weights": {
 					"Links": 8.0000,
@@ -1277,11 +1217,11 @@
 				}
 			},
 			{
-				"id": 974,
+				"id": 970,
 				"label": "magnetic guide",
-				"x": 0.3851,
-				"y": 0.3742,
-				"cluster": 7,
+				"x": 0.0812,
+				"y": 0.7571,
+				"cluster": 6,
 				"weights": {
 					"Links": 5.0000,
 					"Total link strength": 5.0000,
@@ -1292,11 +1232,11 @@
 				}
 			},
 			{
-				"id": 980,
+				"id": 976,
 				"label": "magnetic trap",
-				"x": 0.2924,
-				"y": -0.0096,
-				"cluster": 7,
+				"x": 0.3035,
+				"y": 0.1916,
+				"cluster": 6,
 				"weights": {
 					"Links": 14.0000,
 					"Total link strength": 21.0000,
@@ -1307,14 +1247,14 @@
 				}
 			},
 			{
-				"id": 992,
+				"id": 988,
 				"label": "many-body problem",
-				"x": -0.4945,
-				"y": -0.4333,
+				"x": -0.8654,
+				"y": 0.4084,
 				"cluster": 2,
 				"weights": {
-					"Links": 5.0000,
-					"Total link strength": 10.0000,
+					"Links": 4.0000,
+					"Total link strength": 8.0000,
 					"Occurrences": 3.0000
 				},
 				"scores": {
@@ -1322,11 +1262,11 @@
 				}
 			},
 			{
-				"id": 999,
+				"id": 995,
 				"label": "matter waves",
-				"x": -0.0565,
-				"y": -0.0333,
-				"cluster": 4,
+				"x": 0.0140,
+				"y": -0.1125,
+				"cluster": 3,
 				"weights": {
 					"Links": 8.0000,
 					"Total link strength": 9.0000,
@@ -1337,10 +1277,10 @@
 				}
 			},
 			{
-				"id": 1003,
+				"id": 999,
 				"label": "measurement",
-				"x": 0.7515,
-				"y": -0.4593,
+				"x": 0.6748,
+				"y": -0.4427,
 				"cluster": 1,
 				"weights": {
 					"Links": 5.0000,
@@ -1352,10 +1292,10 @@
 				}
 			},
 			{
-				"id": 1013,
+				"id": 1009,
 				"label": "mesure quantique non destructive",
-				"x": 0.8718,
-				"y": -0.1811,
+				"x": 0.8845,
+				"y": -0.3546,
 				"cluster": 1,
 				"weights": {
 					"Links": 9.0000,
@@ -1367,11 +1307,11 @@
 				}
 			},
 			{
-				"id": 1019,
+				"id": 1015,
 				"label": "metastable helium",
-				"x": -0.4589,
-				"y": 0.3744,
-				"cluster": 3,
+				"x": -0.3229,
+				"y": -0.3704,
+				"cluster": 4,
 				"weights": {
 					"Links": 12.0000,
 					"Total link strength": 20.0000,
@@ -1382,13 +1322,13 @@
 				}
 			},
 			{
-				"id": 1030,
+				"id": 1026,
 				"label": "microcavité",
-				"x": 0.9133,
-				"y": 0.0784,
-				"cluster": 9,
+				"x": 0.6732,
+				"y": 0.3006,
+				"cluster": 10,
 				"weights": {
-					"Links": 6.0000,
+					"Links": 5.0000,
 					"Total link strength": 11.0000,
 					"Occurrences": 8.0000
 				},
@@ -1397,11 +1337,11 @@
 				}
 			},
 			{
-				"id": 1035,
+				"id": 1031,
 				"label": "microscopie de fluorescence",
-				"x": 1.3735,
-				"y": 0.3077,
-				"cluster": 9,
+				"x": 1.0209,
+				"y": 0.8092,
+				"cluster": 10,
 				"weights": {
 					"Links": 5.0000,
 					"Total link strength": 13.0000,
@@ -1412,14 +1352,14 @@
 				}
 			},
 			{
-				"id": 1056,
+				"id": 1052,
 				"label": "modes collectifs",
-				"x": -0.2231,
-				"y": -0.4709,
-				"cluster": 4,
+				"x": -0.3549,
+				"y": 0.2603,
+				"cluster": 3,
 				"weights": {
-					"Links": 13.0000,
-					"Total link strength": 22.0000,
+					"Links": 12.0000,
+					"Total link strength": 21.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -1427,11 +1367,11 @@
 				}
 			},
 			{
-				"id": 1057,
+				"id": 1053,
 				"label": "modes de galerie",
-				"x": 0.8652,
-				"y": 0.1426,
-				"cluster": 9,
+				"x": 0.7453,
+				"y": 0.3213,
+				"cluster": 10,
 				"weights": {
 					"Links": 8.0000,
 					"Total link strength": 10.0000,
@@ -1442,10 +1382,10 @@
 				}
 			},
 			{
-				"id": 1077,
+				"id": 1073,
 				"label": "momentum distribution",
-				"x": -0.9504,
-				"y": -0.1820,
+				"x": -1.0354,
+				"y": -0.0193,
 				"cluster": 2,
 				"weights": {
 					"Links": 13.0000,
@@ -1457,11 +1397,11 @@
 				}
 			},
 			{
-				"id": 1083,
+				"id": 1079,
 				"label": "monte-carlo quantique",
-				"x": -0.2230,
-				"y": 0.0867,
-				"cluster": 3,
+				"x": -0.1774,
+				"y": 0.1305,
+				"cluster": 4,
 				"weights": {
 					"Links": 7.0000,
 					"Total link strength": 9.0000,
@@ -1472,11 +1412,11 @@
 				}
 			},
 			{
-				"id": 1097,
+				"id": 1093,
 				"label": "mélange de fermions",
-				"x": -0.8201,
-				"y": 0.5837,
-				"cluster": 6,
+				"x": -0.6601,
+				"y": -0.6754,
+				"cluster": 7,
 				"weights": {
 					"Links": 12.0000,
 					"Total link strength": 31.0000,
@@ -1487,11 +1427,11 @@
 				}
 			},
 			{
-				"id": 1104,
+				"id": 1100,
 				"label": "mélasses grises",
-				"x": -0.3100,
-				"y": 0.3775,
-				"cluster": 3,
+				"x": -0.1096,
+				"y": -0.2970,
+				"cluster": 4,
 				"weights": {
 					"Links": 13.0000,
 					"Total link strength": 15.0000,
@@ -1502,11 +1442,11 @@
 				}
 			},
 			{
-				"id": 1105,
+				"id": 1101,
 				"label": "mélasses grises d1",
-				"x": -0.8924,
-				"y": 0.5040,
-				"cluster": 6,
+				"x": -0.7445,
+				"y": -0.7492,
+				"cluster": 7,
 				"weights": {
 					"Links": 9.0000,
 					"Total link strength": 27.0000,
@@ -1517,11 +1457,11 @@
 				}
 			},
 			{
-				"id": 1113,
+				"id": 1109,
 				"label": "nanocristaux",
-				"x": 1.1726,
-				"y": 0.2569,
-				"cluster": 9,
+				"x": 0.8902,
+				"y": 0.6005,
+				"cluster": 10,
 				"weights": {
 					"Links": 8.0000,
 					"Total link strength": 16.0000,
@@ -1532,13 +1472,13 @@
 				}
 			},
 			{
-				"id": 1124,
+				"id": 1120,
 				"label": "neodymium",
-				"x": 0.9872,
-				"y": 0.1076,
-				"cluster": 9,
+				"x": 0.7167,
+				"y": 0.3859,
+				"cluster": 10,
 				"weights": {
-					"Links": 5.0000,
+					"Links": 4.0000,
 					"Total link strength": 8.0000,
 					"Occurrences": 4.0000
 				},
@@ -1547,10 +1487,10 @@
 				}
 			},
 			{
-				"id": 1149,
+				"id": 1145,
 				"label": "non-locality",
-				"x": 1.3023,
-				"y": -0.6221,
+				"x": 1.1987,
+				"y": -0.7430,
 				"cluster": 11,
 				"weights": {
 					"Links": 3.0000,
@@ -1562,11 +1502,11 @@
 				}
 			},
 			{
-				"id": 1163,
+				"id": 1159,
 				"label": "nuclear polarization",
-				"x": -0.1720,
-				"y": 0.4677,
-				"cluster": 3,
+				"x": -0.0685,
+				"y": -0.4785,
+				"cluster": 4,
 				"weights": {
 					"Links": 3.0000,
 					"Total link strength": 4.0000,
@@ -1577,11 +1517,11 @@
 				}
 			},
 			{
-				"id": 1193,
+				"id": 1189,
 				"label": "optical pumping",
-				"x": -0.2382,
-				"y": 0.4493,
-				"cluster": 3,
+				"x": -0.1054,
+				"y": -0.4163,
+				"cluster": 4,
 				"weights": {
 					"Links": 11.0000,
 					"Total link strength": 15.0000,
@@ -1592,10 +1532,10 @@
 				}
 			},
 			{
-				"id": 1203,
+				"id": 1199,
 				"label": "optics",
-				"x": 0.5658,
-				"y": -0.1107,
+				"x": 0.4668,
+				"y": -0.0540,
 				"cluster": 1,
 				"weights": {
 					"Links": 5.0000,
@@ -1607,10 +1547,10 @@
 				}
 			},
 			{
-				"id": 1208,
+				"id": 1204,
 				"label": "optique quantique",
-				"x": 0.8897,
-				"y": -0.0964,
+				"x": 0.9277,
+				"y": -0.1334,
 				"cluster": 1,
 				"weights": {
 					"Links": 12.0000,
@@ -1622,10 +1562,10 @@
 				}
 			},
 			{
-				"id": 1235,
+				"id": 1231,
 				"label": "parity violation",
-				"x": 0.4992,
-				"y": 0.7721,
+				"x": 0.9957,
+				"y": 0.2885,
 				"cluster": 8,
 				"weights": {
 					"Links": 4.0000,
@@ -1637,11 +1577,11 @@
 				}
 			},
 			{
-				"id": 1240,
+				"id": 1236,
 				"label": "particle losses",
-				"x": 0.0997,
-				"y": 0.2054,
-				"cluster": 4,
+				"x": 0.2503,
+				"y": -0.2670,
+				"cluster": 3,
 				"weights": {
 					"Links": 3.0000,
 					"Total link strength": 6.0000,
@@ -1652,11 +1592,11 @@
 				}
 			},
 			{
-				"id": 1249,
+				"id": 1245,
 				"label": "penning ionization",
-				"x": -0.4921,
-				"y": 0.5054,
-				"cluster": 3,
+				"x": -0.3169,
+				"y": -0.5338,
+				"cluster": 4,
 				"weights": {
 					"Links": 9.0000,
 					"Total link strength": 13.0000,
@@ -1667,11 +1607,11 @@
 				}
 			},
 			{
-				"id": 1257,
+				"id": 1253,
 				"label": "phase coherence",
-				"x": -0.2204,
-				"y": -0.1641,
-				"cluster": 4,
+				"x": -0.2601,
+				"y": 0.1027,
+				"cluster": 3,
 				"weights": {
 					"Links": 10.0000,
 					"Total link strength": 13.0000,
@@ -1682,11 +1622,11 @@
 				}
 			},
 			{
-				"id": 1260,
+				"id": 1256,
 				"label": "phase diffusion",
-				"x": -0.1427,
-				"y": -0.1854,
-				"cluster": 4,
+				"x": -0.1811,
+				"y": 0.0278,
+				"cluster": 3,
 				"weights": {
 					"Links": 8.0000,
 					"Total link strength": 11.0000,
@@ -1697,13 +1637,13 @@
 				}
 			},
 			{
-				"id": 1270,
+				"id": 1266,
 				"label": "phase transition",
-				"x": -0.3815,
-				"y": -0.7101,
+				"x": -0.5193,
+				"y": 0.7017,
 				"cluster": 5,
 				"weights": {
-					"Links": 12.0000,
+					"Links": 11.0000,
 					"Total link strength": 13.0000,
 					"Occurrences": 3.0000
 				},
@@ -1712,14 +1652,14 @@
 				}
 			},
 			{
-				"id": 1276,
+				"id": 1272,
 				"label": "phonon damping",
-				"x": -0.3995,
-				"y": -0.3522,
-				"cluster": 4,
+				"x": -0.5419,
+				"y": 0.1661,
+				"cluster": 3,
 				"weights": {
-					"Links": 10.0000,
-					"Total link strength": 18.0000,
+					"Links": 9.0000,
+					"Total link strength": 17.0000,
 					"Occurrences": 3.0000
 				},
 				"scores": {
@@ -1727,11 +1667,11 @@
 				}
 			},
 			{
-				"id": 1279,
+				"id": 1275,
 				"label": "photoassociation",
-				"x": -0.5775,
-				"y": 0.4953,
-				"cluster": 3,
+				"x": -0.4051,
+				"y": -0.5373,
+				"cluster": 4,
 				"weights": {
 					"Links": 9.0000,
 					"Total link strength": 18.0000,
@@ -1742,10 +1682,10 @@
 				}
 			},
 			{
-				"id": 1296,
+				"id": 1292,
 				"label": "physics - atomic physics",
-				"x": 0.5116,
-				"y": -0.6714,
+				"x": 0.5801,
+				"y": 0.5445,
 				"cluster": 12,
 				"weights": {
 					"Links": 2.0000,
@@ -1757,11 +1697,11 @@
 				}
 			},
 			{
-				"id": 1306,
+				"id": 1302,
 				"label": "piège dipolaire",
-				"x": 0.2412,
-				"y": 0.3576,
-				"cluster": 7,
+				"x": 0.1319,
+				"y": 0.5520,
+				"cluster": 6,
 				"weights": {
 					"Links": 11.0000,
 					"Total link strength": 16.0000,
@@ -1772,11 +1712,11 @@
 				}
 			},
 			{
-				"id": 1315,
+				"id": 1311,
 				"label": "piégeage magnétique",
-				"x": 0.1772,
-				"y": 0.0555,
-				"cluster": 7,
+				"x": 0.1543,
+				"y": 0.1069,
+				"cluster": 6,
 				"weights": {
 					"Links": 10.0000,
 					"Total link strength": 13.0000,
@@ -1787,11 +1727,11 @@
 				}
 			},
 			{
-				"id": 1338,
+				"id": 1334,
 				"label": "polaron",
-				"x": -0.6653,
-				"y": -0.0057,
-				"cluster": 3,
+				"x": -0.7016,
+				"y": -0.0988,
+				"cluster": 2,
 				"weights": {
 					"Links": 7.0000,
 					"Total link strength": 7.0000,
@@ -1802,11 +1742,11 @@
 				}
 			},
 			{
-				"id": 1343,
+				"id": 1339,
 				"label": "pompage optique",
-				"x": -0.3194,
-				"y": 0.4826,
-				"cluster": 3,
+				"x": -0.1799,
+				"y": -0.4320,
+				"cluster": 4,
 				"weights": {
 					"Links": 11.0000,
 					"Total link strength": 13.0000,
@@ -1817,10 +1757,10 @@
 				}
 			},
 			{
-				"id": 1372,
+				"id": 1368,
 				"label": "problème à trois corps",
-				"x": -0.9274,
-				"y": 0.0734,
+				"x": -0.8322,
+				"y": -0.1533,
 				"cluster": 2,
 				"weights": {
 					"Links": 8.0000,
@@ -1832,25 +1772,25 @@
 				}
 			},
 			{
-				"id": 1381,
-				"label": "puce à atomes",
-				"x": 0.5753,
-				"y": -0.2100,
+				"id": 1377,
+				"label": "puces à atomes",
+				"x": 0.6747,
+				"y": 0.1461,
 				"cluster": 1,
 				"weights": {
-					"Links": 14.0000,
-					"Total link strength": 33.0000,
-					"Occurrences": 12.0000
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 3.0000
 				},
 				"scores": {
-					"Avg. pub. year": 2009.7500
+					"Avg. pub. year": 2008.0000
 				}
 			},
 			{
-				"id": 1390,
+				"id": 1386,
 				"label": "qnd",
-				"x": 0.7922,
-				"y": -0.4999,
+				"x": 0.6535,
+				"y": -0.4975,
 				"cluster": 1,
 				"weights": {
 					"Links": 6.0000,
@@ -1862,10 +1802,10 @@
 				}
 			},
 			{
-				"id": 1395,
+				"id": 1391,
 				"label": "quantum",
-				"x": 0.6722,
-				"y": -0.3695,
+				"x": 0.5777,
+				"y": -0.3537,
 				"cluster": 1,
 				"weights": {
 					"Links": 8.0000,
@@ -1877,11 +1817,11 @@
 				}
 			},
 			{
-				"id": 1403,
+				"id": 1399,
 				"label": "quantum dots",
-				"x": 1.3106,
-				"y": 0.2825,
-				"cluster": 9,
+				"x": 1.0061,
+				"y": 0.6961,
+				"cluster": 10,
 				"weights": {
 					"Links": 5.0000,
 					"Total link strength": 10.0000,
@@ -1892,14 +1832,14 @@
 				}
 			},
 			{
-				"id": 1412,
+				"id": 1408,
 				"label": "quantum hydrodynamics",
-				"x": -0.3228,
-				"y": -0.2985,
-				"cluster": 4,
+				"x": -0.4421,
+				"y": 0.1856,
+				"cluster": 3,
 				"weights": {
-					"Links": 13.0000,
-					"Total link strength": 22.0000,
+					"Links": 12.0000,
+					"Total link strength": 21.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -1907,10 +1847,10 @@
 				}
 			},
 			{
-				"id": 1413,
+				"id": 1409,
 				"label": "quantum information",
-				"x": 0.7871,
-				"y": -0.0000,
+				"x": 0.8665,
+				"y": -0.0405,
 				"cluster": 1,
 				"weights": {
 					"Links": 10.0000,
@@ -1922,14 +1862,14 @@
 				}
 			},
 			{
-				"id": 1421,
+				"id": 1417,
 				"label": "quantum measurement",
-				"x": 1.0933,
-				"y": -0.4322,
+				"x": 1.0123,
+				"y": -0.5272,
 				"cluster": 1,
 				"weights": {
-					"Links": 13.0000,
-					"Total link strength": 20.0000,
+					"Links": 12.0000,
+					"Total link strength": 19.0000,
 					"Occurrences": 6.0000
 				},
 				"scores": {
@@ -1937,10 +1877,10 @@
 				}
 			},
 			{
-				"id": 1424,
+				"id": 1420,
 				"label": "quantum measurements",
-				"x": 1.2969,
-				"y": -0.6645,
+				"x": 1.1871,
+				"y": -0.7857,
 				"cluster": 11,
 				"weights": {
 					"Links": 2.0000,
@@ -1952,11 +1892,11 @@
 				}
 			},
 			{
-				"id": 1450,
+				"id": 1446,
 				"label": "quantum transport",
-				"x": -0.6332,
-				"y": 0.3318,
-				"cluster": 3,
+				"x": -0.4997,
+				"y": -0.4074,
+				"cluster": 4,
 				"weights": {
 					"Links": 2.0000,
 					"Total link strength": 2.0000,
@@ -1967,11 +1907,11 @@
 				}
 			},
 			{
-				"id": 1480,
+				"id": 1476,
 				"label": "ratchet",
-				"x": -0.1456,
-				"y": 0.8039,
-				"cluster": 10,
+				"x": 0.1815,
+				"y": -0.6585,
+				"cluster": 9,
 				"weights": {
 					"Links": 4.0000,
 					"Total link strength": 7.0000,
@@ -1982,11 +1922,11 @@
 				}
 			},
 			{
-				"id": 1504,
+				"id": 1500,
 				"label": "refroidissement raman",
-				"x": 0.0856,
-				"y": 0.3516,
-				"cluster": 7,
+				"x": 0.1315,
+				"y": 0.3622,
+				"cluster": 6,
 				"weights": {
 					"Links": 6.0000,
 					"Total link strength": 8.0000,
@@ -1997,11 +1937,11 @@
 				}
 			},
 			{
-				"id": 1508,
+				"id": 1504,
 				"label": "refroidissement évaporatif",
-				"x": 0.1924,
-				"y": 0.1880,
-				"cluster": 7,
+				"x": 0.1917,
+				"y": 0.2933,
+				"cluster": 6,
 				"weights": {
 					"Links": 14.0000,
 					"Total link strength": 21.0000,
@@ -2012,10 +1952,10 @@
 				}
 			},
 			{
-				"id": 1519,
+				"id": 1515,
 				"label": "resonant interaction",
-				"x": -1.0847,
-				"y": -0.1280,
+				"x": -1.1217,
+				"y": -0.1477,
 				"cluster": 2,
 				"weights": {
 					"Links": 6.0000,
@@ -2027,11 +1967,11 @@
 				}
 			},
 			{
-				"id": 1532,
+				"id": 1528,
 				"label": "rubidium",
-				"x": -0.0540,
-				"y": 0.7444,
-				"cluster": 10,
+				"x": 0.2367,
+				"y": -0.5412,
+				"cluster": 9,
 				"weights": {
 					"Links": 6.0000,
 					"Total link strength": 8.0000,
@@ -2042,11 +1982,11 @@
 				}
 			},
 			{
-				"id": 1542,
+				"id": 1538,
 				"label": "réseaux optiques",
-				"x": -0.2002,
-				"y": 0.5661,
-				"cluster": 10,
+				"x": 0.0459,
+				"y": -0.4888,
+				"cluster": 9,
 				"weights": {
 					"Links": 25.0000,
 					"Total link strength": 53.0000,
@@ -2057,10 +1997,10 @@
 				}
 			},
 			{
-				"id": 1544,
+				"id": 1540,
 				"label": "résonance de feshbach",
-				"x": -0.8729,
-				"y": -0.1270,
+				"x": -0.9170,
+				"y": -0.0035,
 				"cluster": 2,
 				"weights": {
 					"Links": 14.0000,
@@ -2072,14 +2012,14 @@
 				}
 			},
 			{
-				"id": 1561,
+				"id": 1557,
 				"label": "scale invariance",
-				"x": -0.6713,
-				"y": -0.6338,
+				"x": -0.7474,
+				"y": 0.5128,
 				"cluster": 5,
 				"weights": {
-					"Links": 16.0000,
-					"Total link strength": 25.0000,
+					"Links": 14.0000,
+					"Total link strength": 24.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -2087,10 +2027,10 @@
 				}
 			},
 			{
-				"id": 1579,
+				"id": 1575,
 				"label": "selective reflection",
-				"x": 0.6403,
-				"y": 0.5671,
+				"x": 1.0606,
+				"y": 0.0855,
 				"cluster": 8,
 				"weights": {
 					"Links": 7.0000,
@@ -2102,11 +2042,11 @@
 				}
 			},
 			{
-				"id": 1602,
+				"id": 1598,
 				"label": "single molecule",
-				"x": 1.2731,
-				"y": 0.3412,
-				"cluster": 9,
+				"x": 0.9436,
+				"y": 0.7316,
+				"cluster": 10,
 				"weights": {
 					"Links": 5.0000,
 					"Total link strength": 14.0000,
@@ -2117,11 +2057,11 @@
 				}
 			},
 			{
-				"id": 1606,
+				"id": 1602,
 				"label": "sisyphus cooling",
-				"x": -0.2949,
-				"y": 0.6823,
-				"cluster": 10,
+				"x": -0.0295,
+				"y": -0.6515,
+				"cluster": 9,
 				"weights": {
 					"Links": 3.0000,
 					"Total link strength": 5.0000,
@@ -2132,11 +2072,11 @@
 				}
 			},
 			{
-				"id": 1651,
+				"id": 1647,
 				"label": "spin squeezing",
-				"x": 0.0042,
-				"y": 0.2319,
-				"cluster": 4,
+				"x": 0.1333,
+				"y": -0.2943,
+				"cluster": 3,
 				"weights": {
 					"Links": 6.0000,
 					"Total link strength": 11.0000,
@@ -2147,11 +2087,11 @@
 				}
 			},
 			{
-				"id": 1654,
+				"id": 1650,
 				"label": "spin waves",
-				"x": -0.6869,
-				"y": 0.2917,
-				"cluster": 3,
+				"x": -0.5630,
+				"y": -0.3934,
+				"cluster": 4,
 				"weights": {
 					"Links": 3.0000,
 					"Total link strength": 3.0000,
@@ -2162,10 +2102,10 @@
 				}
 			},
 			{
-				"id": 1668,
+				"id": 1664,
 				"label": "stark effect",
-				"x": 0.5562,
-				"y": 0.8516,
+				"x": 1.1012,
+				"y": 0.3222,
 				"cluster": 8,
 				"weights": {
 					"Links": 4.0000,
@@ -2177,11 +2117,11 @@
 				}
 			},
 			{
-				"id": 1671,
+				"id": 1667,
 				"label": "statistiques de lévy",
-				"x": -0.1297,
-				"y": 0.2417,
-				"cluster": 3,
+				"x": -0.0558,
+				"y": 0.1591,
+				"cluster": 4,
 				"weights": {
 					"Links": 5.0000,
 					"Total link strength": 7.0000,
@@ -2192,10 +2132,10 @@
 				}
 			},
 			{
-				"id": 1687,
+				"id": 1683,
 				"label": "sub-doppler spectroscopy",
-				"x": 0.6882,
-				"y": 0.4713,
+				"x": 1.1022,
+				"y": 0.0137,
 				"cluster": 8,
 				"weights": {
 					"Links": 3.0000,
@@ -2207,14 +2147,14 @@
 				}
 			},
 			{
-				"id": 1695,
+				"id": 1691,
 				"label": "superconducting cavity",
-				"x": 1.1334,
-				"y": -0.2048,
+				"x": 0.9799,
+				"y": -0.3245,
 				"cluster": 1,
 				"weights": {
-					"Links": 11.0000,
-					"Total link strength": 21.0000,
+					"Links": 10.0000,
+					"Total link strength": 20.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -2222,14 +2162,14 @@
 				}
 			},
 			{
-				"id": 1699,
+				"id": 1695,
 				"label": "superconductor",
-				"x": 0.1436,
-				"y": -0.3721,
-				"cluster": 4,
+				"x": 0.1486,
+				"y": 0.1978,
+				"cluster": 3,
 				"weights": {
-					"Links": 13.0000,
-					"Total link strength": 16.0000,
+					"Links": 12.0000,
+					"Total link strength": 15.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -2237,14 +2177,14 @@
 				}
 			},
 			{
-				"id": 1710,
+				"id": 1706,
 				"label": "superfluidité",
-				"x": -0.4886,
-				"y": -0.3313,
+				"x": -0.5407,
+				"y": 0.2840,
 				"cluster": 5,
 				"weights": {
-					"Links": 38.0000,
-					"Total link strength": 75.0000,
+					"Links": 35.0000,
+					"Total link strength": 72.0000,
 					"Occurrences": 20.0000
 				},
 				"scores": {
@@ -2252,14 +2192,14 @@
 				}
 			},
 			{
-				"id": 1711,
+				"id": 1707,
 				"label": "superfluidité fermionique",
-				"x": -0.6587,
-				"y": -0.2380,
+				"x": -0.7851,
+				"y": 0.1678,
 				"cluster": 2,
 				"weights": {
-					"Links": 16.0000,
-					"Total link strength": 21.0000,
+					"Links": 15.0000,
+					"Total link strength": 20.0000,
 					"Occurrences": 3.0000
 				},
 				"scores": {
@@ -2267,14 +2207,14 @@
 				}
 			},
 			{
-				"id": 1753,
+				"id": 1749,
 				"label": "thermodynamics",
-				"x": -0.8496,
-				"y": 0.1903,
-				"cluster": 6,
+				"x": -0.8061,
+				"y": -0.3728,
+				"cluster": 7,
 				"weights": {
-					"Links": 12.0000,
-					"Total link strength": 14.0000,
+					"Links": 11.0000,
+					"Total link strength": 13.0000,
 					"Occurrences": 3.0000
 				},
 				"scores": {
@@ -2282,14 +2222,14 @@
 				}
 			},
 			{
-				"id": 1754,
+				"id": 1750,
 				"label": "thermodynamique",
-				"x": -0.7889,
-				"y": 0.1406,
-				"cluster": 6,
+				"x": -0.7661,
+				"y": -0.3030,
+				"cluster": 7,
 				"weights": {
-					"Links": 14.0000,
-					"Total link strength": 17.0000,
+					"Links": 13.0000,
+					"Total link strength": 16.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -2297,10 +2237,10 @@
 				}
 			},
 			{
-				"id": 1761,
+				"id": 1757,
 				"label": "three-body problem",
-				"x": -0.9829,
-				"y": -0.0258,
+				"x": -0.9293,
+				"y": -0.1340,
 				"cluster": 2,
 				"weights": {
 					"Links": 7.0000,
@@ -2312,14 +2252,14 @@
 				}
 			},
 			{
-				"id": 1766,
+				"id": 1762,
 				"label": "théorie bcs",
-				"x": -0.1238,
-				"y": -0.4482,
-				"cluster": 4,
+				"x": -0.2139,
+				"y": 0.3351,
+				"cluster": 3,
 				"weights": {
-					"Links": 8.0000,
-					"Total link strength": 16.0000,
+					"Links": 7.0000,
+					"Total link strength": 15.0000,
 					"Occurrences": 3.0000
 				},
 				"scores": {
@@ -2327,14 +2267,14 @@
 				}
 			},
 			{
-				"id": 1786,
+				"id": 1782,
 				"label": "transition bec-bcs",
-				"x": -0.7137,
-				"y": -0.3122,
+				"x": -0.9611,
+				"y": 0.2601,
 				"cluster": 2,
 				"weights": {
-					"Links": 13.0000,
-					"Total link strength": 27.0000,
+					"Links": 12.0000,
+					"Total link strength": 25.0000,
 					"Occurrences": 6.0000
 				},
 				"scores": {
@@ -2342,10 +2282,10 @@
 				}
 			},
 			{
-				"id": 1821,
+				"id": 1817,
 				"label": "ultra cold atoms",
-				"x": -0.8572,
-				"y": -0.4464,
+				"x": -0.8713,
+				"y": 0.2725,
 				"cluster": 2,
 				"weights": {
 					"Links": 4.0000,
@@ -2357,10 +2297,10 @@
 				}
 			},
 			{
-				"id": 1824,
+				"id": 1820,
 				"label": "ultra-cold atoms",
-				"x": -0.6089,
-				"y": -0.1360,
+				"x": -0.6753,
+				"y": 0.0505,
 				"cluster": 2,
 				"weights": {
 					"Links": 16.0000,
@@ -2372,26 +2312,11 @@
 				}
 			},
 			{
-				"id": 1829,
-				"label": "ultracold gases",
-				"x": -0.7436,
-				"y": 0.2246,
-				"cluster": 3,
-				"weights": {
-					"Links": 9.0000,
-					"Total link strength": 10.0000,
-					"Occurrences": 5.0000
-				},
-				"scores": {
-					"Avg. pub. year": 2013.0000
-				}
-			},
-			{
-				"id": 1839,
+				"id": 1834,
 				"label": "unitary bose gas",
-				"x": -0.6991,
-				"y": 0.0799,
-				"cluster": 6,
+				"x": -0.6567,
+				"y": -0.2362,
+				"cluster": 7,
 				"weights": {
 					"Links": 15.0000,
 					"Total link strength": 17.0000,
@@ -2402,10 +2327,10 @@
 				}
 			},
 			{
-				"id": 1841,
+				"id": 1836,
 				"label": "unitary gas",
-				"x": -1.0480,
-				"y": -0.2597,
+				"x": -1.1283,
+				"y": -0.0236,
 				"cluster": 2,
 				"weights": {
 					"Links": 8.0000,
@@ -2417,14 +2342,14 @@
 				}
 			},
 			{
-				"id": 1843,
+				"id": 1838,
 				"label": "unitary limit",
-				"x": -0.8435,
-				"y": -0.3368,
+				"x": -0.8758,
+				"y": 0.1614,
 				"cluster": 2,
 				"weights": {
-					"Links": 17.0000,
-					"Total link strength": 24.0000,
+					"Links": 16.0000,
+					"Total link strength": 23.0000,
 					"Occurrences": 7.0000
 				},
 				"scores": {
@@ -2432,10 +2357,10 @@
 				}
 			},
 			{
-				"id": 1847,
+				"id": 1842,
 				"label": "ursell operators",
-				"x": 0.0502,
-				"y": -0.4399,
+				"x": -0.2372,
+				"y": 0.7329,
 				"cluster": 5,
 				"weights": {
 					"Links": 1.0000,
@@ -2447,10 +2372,10 @@
 				}
 			},
 			{
-				"id": 1859,
+				"id": 1854,
 				"label": "vicinal surface",
-				"x": 0.5991,
-				"y": 0.6753,
+				"x": 1.0395,
+				"y": 0.1654,
 				"cluster": 8,
 				"weights": {
 					"Links": 5.0000,
@@ -2462,10 +2387,10 @@
 				}
 			},
 			{
-				"id": 1862,
+				"id": 1857,
 				"label": "violation de la parité",
-				"x": 0.5630,
-				"y": 0.7273,
+				"x": 1.0315,
+				"y": 0.2274,
 				"cluster": 8,
 				"weights": {
 					"Links": 6.0000,
@@ -2477,14 +2402,14 @@
 				}
 			},
 			{
-				"id": 1867,
+				"id": 1862,
 				"label": "virial expansion",
-				"x": -0.9265,
-				"y": -0.2990,
+				"x": -0.9996,
+				"y": 0.0629,
 				"cluster": 2,
 				"weights": {
-					"Links": 11.0000,
-					"Total link strength": 15.0000,
+					"Links": 10.0000,
+					"Total link strength": 14.0000,
 					"Occurrences": 4.0000
 				},
 				"scores": {
@@ -2492,14 +2417,14 @@
 				}
 			},
 			{
-				"id": 1870,
+				"id": 1865,
 				"label": "vitesse critique",
-				"x": -0.5011,
-				"y": 0.0232,
-				"cluster": 6,
+				"x": -0.5219,
+				"y": -0.0821,
+				"cluster": 7,
 				"weights": {
-					"Links": 10.0000,
-					"Total link strength": 16.0000,
+					"Links": 9.0000,
+					"Total link strength": 15.0000,
 					"Occurrences": 3.0000
 				},
 				"scores": {
@@ -2507,10 +2432,10 @@
 				}
 			},
 			{
-				"id": 1872,
+				"id": 1867,
 				"label": "vortex",
-				"x": -0.3425,
-				"y": -0.4714,
+				"x": -0.4449,
+				"y": 0.4361,
 				"cluster": 5,
 				"weights": {
 					"Links": 15.0000,
@@ -2522,10 +2447,10 @@
 				}
 			},
 			{
-				"id": 1875,
+				"id": 1870,
 				"label": "vortices",
-				"x": -0.5968,
-				"y": -0.4994,
+				"x": -0.6485,
+				"y": 0.3815,
 				"cluster": 5,
 				"weights": {
 					"Links": 8.0000,
@@ -2537,10 +2462,10 @@
 				}
 			},
 			{
-				"id": 1878,
+				"id": 1873,
 				"label": "weak charge",
-				"x": 0.6053,
-				"y": 0.7964,
+				"x": 1.1162,
+				"y": 0.2517,
 				"cluster": 8,
 				"weights": {
 					"Links": 7.0000,
@@ -2552,13 +2477,13 @@
 				}
 			},
 			{
-				"id": 1910,
+				"id": 1905,
 				"label": "équation d'état",
-				"x": -0.5137,
-				"y": -0.6933,
+				"x": -0.6715,
+				"y": 0.6153,
 				"cluster": 5,
 				"weights": {
-					"Links": 13.0000,
+					"Links": 12.0000,
 					"Total link strength": 28.0000,
 					"Occurrences": 5.0000
 				},
@@ -2567,13 +2492,13 @@
 				}
 			},
 			{
-				"id": 1924,
+				"id": 1919,
 				"label": "états de fock",
-				"x": 0.9400,
-				"y": -0.3813,
+				"x": 0.8561,
+				"y": -0.5039,
 				"cluster": 1,
 				"weights": {
-					"Links": 6.0000,
+					"Links": 5.0000,
 					"Total link strength": 12.0000,
 					"Occurrences": 3.0000
 				},
@@ -2585,152 +2510,167 @@
 		"links": [
 			{
 				"source_id": 99,
-				"target_id": 620,
+				"target_id": 616,
 				"strength": 3.0000
 			},
 			{
 				"source_id": 99,
-				"target_id": 1035,
+				"target_id": 1031,
 				"strength": 3.0000
 			},
 			{
 				"source_id": 99,
-				"target_id": 1113,
+				"target_id": 1109,
 				"strength": 2.0000
 			},
 			{
 				"source_id": 99,
-				"target_id": 1403,
+				"target_id": 1399,
 				"strength": 2.0000
 			},
 			{
 				"source_id": 99,
-				"target_id": 1602,
+				"target_id": 1598,
 				"strength": 3.0000
 			},
 			{
 				"source_id": 132,
-				"target_id": 155,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 132,
+				"target_id": 154,
 				"strength": 5.0000
 			},
 			{
 				"source_id": 132,
-				"target_id": 203,
-				"strength": 5.0000
+				"target_id": 202,
+				"strength": 6.0000
 			},
 			{
 				"source_id": 132,
-				"target_id": 270,
+				"target_id": 226,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 132,
-				"target_id": 271,
+				"target_id": 268,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 132,
+				"target_id": 269,
 				"strength": 4.0000
 			},
 			{
 				"source_id": 132,
-				"target_id": 369,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 132,
-				"target_id": 808,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 132,
-				"target_id": 842,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 132,
-				"target_id": 980,
+				"target_id": 367,
 				"strength": 2.0000
 			},
 			{
 				"source_id": 132,
-				"target_id": 1057,
+				"target_id": 804,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 132,
+				"target_id": 838,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 132,
-				"target_id": 1296,
+				"target_id": 976,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 132,
+				"target_id": 1053,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 132,
-				"target_id": 1381,
-				"strength": 9.0000
-			},
-			{
-				"source_id": 132,
-				"target_id": 1413,
+				"target_id": 1204,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 132,
-				"target_id": 1699,
+				"target_id": 1292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 132,
+				"target_id": 1377,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 132,
+				"target_id": 1409,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 132,
+				"target_id": 1695,
 				"strength": 2.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 155,
+				"target_id": 154,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 162,
+				"target_id": 161,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 203,
+				"target_id": 202,
 				"strength": 2.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 297,
+				"target_id": 295,
 				"strength": 2.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 369,
+				"target_id": 367,
 				"strength": 2.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 467,
+				"target_id": 465,
 				"strength": 2.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 558,
+				"target_id": 555,
 				"strength": 3.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 905,
+				"target_id": 901,
 				"strength": 4.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 974,
+				"target_id": 970,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 1306,
+				"target_id": 1302,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 1508,
+				"target_id": 1504,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 136,
-				"target_id": 1710,
+				"target_id": 1706,
 				"strength": 1.0000
 			},
 			{
@@ -2740,57 +2680,57 @@
 			},
 			{
 				"source_id": 137,
-				"target_id": 155,
+				"target_id": 154,
 				"strength": 2.0000
 			},
 			{
 				"source_id": 137,
-				"target_id": 203,
+				"target_id": 202,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 137,
-				"target_id": 369,
+				"target_id": 367,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 137,
-				"target_id": 558,
+				"target_id": 555,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 137,
-				"target_id": 785,
+				"target_id": 781,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 137,
-				"target_id": 1019,
+				"target_id": 1015,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 137,
-				"target_id": 1542,
+				"target_id": 1538,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 137,
-				"target_id": 1824,
+				"target_id": 1820,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 139,
-				"target_id": 369,
+				"target_id": 367,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 139,
-				"target_id": 892,
+				"target_id": 888,
 				"strength": 2.0000
 			},
 			{
 				"source_id": 141,
-				"target_id": 1296,
+				"target_id": 1292,
 				"strength": 2.0000
 			},
 			{
@@ -2800,4384 +2740,4104 @@
 			},
 			{
 				"source_id": 148,
-				"target_id": 271,
+				"target_id": 269,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 148,
-				"target_id": 279,
+				"target_id": 277,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 148,
-				"target_id": 414,
+				"target_id": 412,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 148,
-				"target_id": 1208,
+				"target_id": 1204,
 				"strength": 2.0000
 			},
 			{
 				"source_id": 148,
-				"target_id": 1695,
+				"target_id": 1691,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 152,
-				"target_id": 155,
+				"target_id": 154,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 152,
-				"target_id": 227,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 271,
-				"strength": 6.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 279,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 395,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 414,
-				"strength": 6.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 524,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 535,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 625,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 761,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 845,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 854,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 1013,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 1208,
+				"target_id": 226,
 				"strength": 3.0000
 			},
 			{
 				"source_id": 152,
-				"target_id": 1381,
-				"strength": 1.0000
+				"target_id": 269,
+				"strength": 8.0000
 			},
 			{
 				"source_id": 152,
-				"target_id": 1413,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 1421,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 152,
-				"target_id": 1695,
+				"target_id": 277,
 				"strength": 4.0000
 			},
 			{
 				"source_id": 152,
-				"target_id": 1924,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 153,
-				"target_id": 227,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 153,
-				"target_id": 271,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 153,
-				"target_id": 395,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 153,
-				"target_id": 524,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 153,
-				"target_id": 625,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 153,
-				"target_id": 1924,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 201,
+				"target_id": 393,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 203,
+				"source_id": 152,
+				"target_id": 412,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 532,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 621,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 757,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 841,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 850,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 1009,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 1204,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 1409,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 1417,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 1691,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 1919,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 200,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 202,
 				"strength": 10.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 205,
+				"source_id": 154,
+				"target_id": 204,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 227,
+				"source_id": 154,
+				"target_id": 226,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 271,
+				"source_id": 154,
+				"target_id": 269,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 155,
+				"source_id": 154,
+				"target_id": 332,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
 				"target_id": 334,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 336,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 341,
+				"source_id": 154,
+				"target_id": 339,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 365,
+				"source_id": 154,
+				"target_id": 363,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 369,
+				"source_id": 154,
+				"target_id": 367,
 				"strength": 7.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 400,
+				"source_id": 154,
+				"target_id": 398,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 155,
+				"source_id": 154,
+				"target_id": 415,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 417,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 448,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 465,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 468,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 508,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 514,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 555,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 573,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 589,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 590,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 593,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 671,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 683,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 686,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 737,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 768,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 781,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 877,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 888,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 901,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 937,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 939,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 953,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 976,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 988,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 995,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1015,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1052,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1053,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1073,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1093,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1100,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1245,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1272,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1275,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1302,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1311,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1334,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1377,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1408,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1476,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1504,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1515,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1528,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1538,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1540,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1602,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1695,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1706,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1707,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1757,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1762,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1782,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1820,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1834,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1865,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 1867,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 465,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 901,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 970,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 1302,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 1664,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 1873,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 202,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 367,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 368,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 542,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 856,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 950,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 953,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 1266,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 1557,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 1706,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 1905,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 323,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 339,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 363,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 671,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 1052,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 1253,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 1695,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 1762,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 209,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 323,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 367,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 397,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 398,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 412,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 417,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 465,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 532,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 542,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 555,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 590,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 593,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 610,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 683,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 686,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 737,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 781,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 804,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 888,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 901,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 937,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 953,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 995,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1015,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1079,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1199,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1204,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1236,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1245,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1253,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1256,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1266,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1302,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1377,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1391,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1409,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1417,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1504,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1538,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1540,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1647,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1695,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1706,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1749,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1820,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1865,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1867,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1870,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 1905,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
 				"target_id": 417,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 419,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 450,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 467,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 470,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 510,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 516,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 558,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
+				"source_id": 204,
 				"target_id": 576,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 577,
+				"source_id": 204,
+				"target_id": 590,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 593,
 				"strength": 4.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 593,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 594,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 597,
-				"strength": 5.0000
-			},
-			{
-				"source_id": 155,
+				"source_id": 204,
 				"target_id": 671,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 675,
-				"strength": 5.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 687,
-				"strength": 6.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 690,
+				"source_id": 204,
+				"target_id": 1073,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 741,
+				"source_id": 204,
+				"target_id": 1079,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 772,
+				"source_id": 204,
+				"target_id": 1334,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 785,
-				"strength": 4.0000
+				"source_id": 204,
+				"target_id": 1540,
+				"strength": 2.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 881,
-				"strength": 1.0000
+				"source_id": 204,
+				"target_id": 1707,
+				"strength": 2.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 892,
+				"source_id": 204,
+				"target_id": 1782,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 905,
+				"source_id": 204,
+				"target_id": 1817,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 941,
+				"source_id": 204,
+				"target_id": 1820,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1836,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 1838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 698,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 943,
+				"source_id": 209,
+				"target_id": 1145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 1417,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 957,
+				"source_id": 209,
+				"target_id": 1420,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 155,
-				"target_id": 980,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 992,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 999,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1019,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1056,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1057,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1077,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1097,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1104,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1249,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1276,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1279,
-				"strength": 5.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1306,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1315,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1338,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1372,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1381,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1412,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1480,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1508,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1519,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1532,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1542,
-				"strength": 8.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1544,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1606,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1699,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1710,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1711,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1761,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1766,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1786,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1824,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1839,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1870,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 155,
-				"target_id": 1872,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 162,
-				"target_id": 467,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 162,
-				"target_id": 905,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 162,
-				"target_id": 974,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 162,
-				"target_id": 1306,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 176,
-				"target_id": 1668,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 176,
-				"target_id": 1878,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 203,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 239,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 369,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 370,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 545,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 860,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 954,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 957,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 1270,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 1561,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 1710,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 192,
-				"target_id": 1910,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 201,
-				"target_id": 325,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 201,
-				"target_id": 341,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 201,
-				"target_id": 365,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 201,
-				"target_id": 577,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 201,
-				"target_id": 675,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 201,
-				"target_id": 1056,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 201,
-				"target_id": 1257,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 201,
-				"target_id": 1699,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 201,
-				"target_id": 1766,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 210,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 271,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 325,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 369,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 399,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 400,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 414,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 419,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 467,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 535,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 545,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 558,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 594,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 597,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 614,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 687,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 690,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 741,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 785,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 808,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 842,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 892,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 905,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 941,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 957,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 999,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1019,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1083,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1203,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1208,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1240,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1249,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1257,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1260,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1270,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1306,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1381,
-				"strength": 5.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1395,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1413,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1421,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1508,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1542,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1544,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1651,
-				"strength": 5.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1699,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1710,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1753,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1754,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1824,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1829,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1870,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1872,
-				"strength": 6.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1875,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 203,
-				"target_id": 1910,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 419,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 577,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 580,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 594,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 597,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 1077,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 1083,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 1338,
+				"source_id": 226,
+				"target_id": 269,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 205,
-				"target_id": 1544,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 1711,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 1786,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 1821,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 1824,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 1841,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 205,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 210,
-				"target_id": 702,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 210,
-				"target_id": 1149,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 210,
-				"target_id": 1421,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 210,
-				"target_id": 1424,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 227,
-				"target_id": 271,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 227,
-				"target_id": 1381,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 239,
-				"target_id": 370,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 239,
-				"target_id": 545,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 239,
-				"target_id": 860,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 239,
-				"target_id": 892,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 239,
-				"target_id": 954,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 239,
-				"target_id": 1270,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 239,
-				"target_id": 1561,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 239,
-				"target_id": 1710,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 239,
-				"target_id": 1910,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 270,
-				"target_id": 271,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 270,
-				"target_id": 414,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 270,
-				"target_id": 1381,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 270,
-				"target_id": 1699,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 279,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 414,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 470,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 524,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 535,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 761,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 808,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 845,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 854,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 980,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 1013,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 1030,
+				"source_id": 268,
+				"target_id": 269,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 271,
-				"target_id": 1057,
+				"source_id": 268,
+				"target_id": 412,
 				"strength": 1.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 1124,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 1208,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 1381,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 1390,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 1413,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 271,
-				"target_id": 1421,
-				"strength": 2.0000
 			},
 			{
-				"source_id": 271,
+				"source_id": 268,
 				"target_id": 1695,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 277,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 412,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 468,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 532,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 271,
-				"target_id": 1699,
+				"source_id": 269,
+				"target_id": 757,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 279,
-				"target_id": 414,
+				"source_id": 269,
+				"target_id": 804,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 279,
-				"target_id": 524,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 279,
-				"target_id": 761,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 279,
-				"target_id": 845,
+				"source_id": 269,
+				"target_id": 841,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 279,
-				"target_id": 1013,
+				"source_id": 269,
+				"target_id": 850,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 976,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 279,
-				"target_id": 1208,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 279,
-				"target_id": 1413,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 279,
-				"target_id": 1421,
+				"source_id": 269,
+				"target_id": 1009,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 279,
+				"source_id": 269,
+				"target_id": 1026,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 1053,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 1120,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 1204,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 1377,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 1386,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 1409,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 1417,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 1691,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
 				"target_id": 1695,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 412,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 757,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 841,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 1009,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 1204,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 1409,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 1417,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 1691,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 334,
+				"source_id": 285,
+				"target_id": 332,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 450,
+				"source_id": 285,
+				"target_id": 448,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 510,
+				"source_id": 285,
+				"target_id": 508,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 558,
+				"source_id": 285,
+				"target_id": 555,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 597,
+				"source_id": 285,
+				"target_id": 593,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 636,
+				"source_id": 285,
+				"target_id": 632,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 761,
+				"source_id": 285,
+				"target_id": 757,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 892,
+				"source_id": 285,
+				"target_id": 888,
 				"strength": 5.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 980,
+				"source_id": 285,
+				"target_id": 976,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1104,
+				"source_id": 285,
+				"target_id": 1100,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1193,
+				"source_id": 285,
+				"target_id": 1189,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1235,
+				"source_id": 285,
+				"target_id": 1231,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1306,
+				"source_id": 285,
+				"target_id": 1302,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1315,
+				"source_id": 285,
+				"target_id": 1311,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1343,
+				"source_id": 285,
+				"target_id": 1339,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
+				"source_id": 285,
+				"target_id": 1500,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 285,
 				"target_id": 1504,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1508,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 287,
-				"target_id": 1532,
+				"source_id": 285,
+				"target_id": 1528,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1542,
+				"source_id": 285,
+				"target_id": 1538,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1579,
+				"source_id": 285,
+				"target_id": 1575,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1668,
+				"source_id": 285,
+				"target_id": 1664,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1671,
+				"source_id": 285,
+				"target_id": 1667,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1687,
+				"source_id": 285,
+				"target_id": 1683,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1859,
+				"source_id": 285,
+				"target_id": 1854,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
+				"source_id": 285,
+				"target_id": 1857,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 285,
+				"target_id": 1873,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 295,
+				"target_id": 367,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 323,
+				"target_id": 367,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 323,
+				"target_id": 610,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 323,
+				"target_id": 995,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 323,
+				"target_id": 1253,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 323,
+				"target_id": 1256,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 332,
+				"target_id": 415,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 332,
+				"target_id": 555,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 332,
+				"target_id": 593,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 332,
+				"target_id": 888,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 332,
+				"target_id": 937,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 332,
+				"target_id": 953,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 332,
+				"target_id": 976,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 332,
+				"target_id": 1311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 332,
+				"target_id": 1504,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 334,
+				"target_id": 939,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 334,
+				"target_id": 1015,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 334,
+				"target_id": 1093,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 334,
+				"target_id": 1245,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 334,
+				"target_id": 1275,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 339,
+				"target_id": 363,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 339,
+				"target_id": 671,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 339,
+				"target_id": 683,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 339,
+				"target_id": 768,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 339,
+				"target_id": 1052,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 339,
+				"target_id": 1272,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 339,
+				"target_id": 1408,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 339,
+				"target_id": 1695,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 339,
+				"target_id": 1706,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 339,
+				"target_id": 1762,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 363,
+				"target_id": 671,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 363,
+				"target_id": 768,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 363,
+				"target_id": 1052,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 363,
+				"target_id": 1253,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 363,
+				"target_id": 1256,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 363,
+				"target_id": 1408,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 363,
+				"target_id": 1695,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 363,
+				"target_id": 1762,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 368,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 397,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 542,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 555,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 589,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 593,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 671,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 781,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 804,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 856,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 877,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 888,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 901,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 937,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 950,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 953,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 988,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 995,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1204,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1256,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1266,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1302,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1311,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1500,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1538,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1557,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1706,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1782,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1842,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1867,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 367,
+				"target_id": 1905,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 542,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 856,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 950,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 1266,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 1557,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 1706,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 1905,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 393,
+				"target_id": 412,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 393,
+				"target_id": 621,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 393,
+				"target_id": 999,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 393,
+				"target_id": 1009,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 393,
+				"target_id": 1386,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 393,
+				"target_id": 1391,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 393,
+				"target_id": 1919,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 398,
+				"target_id": 667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 398,
+				"target_id": 671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 398,
+				"target_id": 683,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 398,
+				"target_id": 937,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 398,
+				"target_id": 1706,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 398,
+				"target_id": 1834,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 398,
+				"target_id": 1865,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 408,
+				"target_id": 460,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 408,
+				"target_id": 474,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 408,
+				"target_id": 575,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 408,
+				"target_id": 646,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 408,
+				"target_id": 683,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 408,
+				"target_id": 888,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 408,
+				"target_id": 939,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 408,
+				"target_id": 1093,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 408,
+				"target_id": 1101,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 412,
+				"target_id": 532,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 412,
+				"target_id": 621,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 412,
+				"target_id": 841,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 412,
+				"target_id": 850,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 412,
+				"target_id": 1009,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 412,
+				"target_id": 1236,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 412,
+				"target_id": 1391,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 412,
+				"target_id": 1417,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 412,
+				"target_id": 1647,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 412,
+				"target_id": 1691,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 412,
+				"target_id": 1919,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 415,
+				"target_id": 555,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 415,
+				"target_id": 590,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 415,
+				"target_id": 683,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 415,
+				"target_id": 888,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 415,
+				"target_id": 937,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 415,
+				"target_id": 976,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 415,
+				"target_id": 1100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 415,
+				"target_id": 1504,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 417,
+				"target_id": 590,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 417,
+				"target_id": 593,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 417,
+				"target_id": 1073,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 417,
+				"target_id": 1540,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 417,
+				"target_id": 1707,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 417,
+				"target_id": 1782,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 417,
+				"target_id": 1820,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 448,
+				"target_id": 508,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 448,
+				"target_id": 888,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 448,
+				"target_id": 1100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 448,
+				"target_id": 1189,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 448,
+				"target_id": 1339,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 448,
+				"target_id": 1528,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 448,
+				"target_id": 1538,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 460,
+				"target_id": 474,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 460,
+				"target_id": 646,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 460,
+				"target_id": 667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 460,
+				"target_id": 683,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 460,
+				"target_id": 888,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 460,
+				"target_id": 939,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 460,
+				"target_id": 1093,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 460,
+				"target_id": 1101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 460,
+				"target_id": 1749,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 460,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 460,
+				"target_id": 1834,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 901,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 970,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 1302,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 467,
+				"target_id": 1476,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 467,
+				"target_id": 1538,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 468,
+				"target_id": 995,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 468,
+				"target_id": 1538,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 474,
+				"target_id": 575,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 474,
+				"target_id": 646,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 474,
+				"target_id": 667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 474,
+				"target_id": 683,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 474,
+				"target_id": 888,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 474,
+				"target_id": 939,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 474,
+				"target_id": 1093,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 474,
+				"target_id": 1101,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 474,
+				"target_id": 1749,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 474,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 474,
+				"target_id": 1834,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 508,
+				"target_id": 888,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 508,
+				"target_id": 1528,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 508,
+				"target_id": 1538,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 514,
+				"target_id": 589,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 514,
+				"target_id": 593,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 514,
+				"target_id": 671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 514,
+				"target_id": 683,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 514,
+				"target_id": 1073,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 514,
+				"target_id": 1515,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 514,
+				"target_id": 1836,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 514,
+				"target_id": 1838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 514,
+				"target_id": 1862,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 532,
+				"target_id": 850,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 532,
+				"target_id": 1691,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 589,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 683,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 856,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 950,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 1266,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 1557,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 1706,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 1749,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 1867,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 1870,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 542,
+				"target_id": 1905,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 555,
+				"target_id": 888,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 555,
+				"target_id": 901,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 555,
+				"target_id": 937,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 555,
+				"target_id": 976,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 555,
+				"target_id": 1311,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 555,
+				"target_id": 1504,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 555,
+				"target_id": 1706,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 573,
+				"target_id": 671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 573,
+				"target_id": 1820,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 573,
+				"target_id": 1838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 573,
+				"target_id": 1870,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 575,
+				"target_id": 646,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 575,
+				"target_id": 683,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 575,
+				"target_id": 888,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 575,
+				"target_id": 939,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 575,
+				"target_id": 1093,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 575,
+				"target_id": 1101,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 576,
+				"target_id": 671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 576,
+				"target_id": 1836,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 589,
+				"target_id": 593,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 589,
+				"target_id": 683,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 589,
+				"target_id": 1515,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 589,
+				"target_id": 1650,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 589,
+				"target_id": 1749,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 589,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 589,
+				"target_id": 1757,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 589,
+				"target_id": 1836,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 589,
 				"target_id": 1862,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 287,
-				"target_id": 1878,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 297,
-				"target_id": 369,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 325,
-				"target_id": 369,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 325,
-				"target_id": 614,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 325,
-				"target_id": 999,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 325,
-				"target_id": 1257,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 325,
-				"target_id": 1260,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 334,
-				"target_id": 417,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 334,
-				"target_id": 558,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 334,
-				"target_id": 597,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 334,
-				"target_id": 892,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 334,
-				"target_id": 941,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 334,
-				"target_id": 957,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 334,
-				"target_id": 980,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 334,
-				"target_id": 1315,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 334,
-				"target_id": 1508,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 336,
-				"target_id": 943,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 336,
-				"target_id": 1019,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 336,
-				"target_id": 1097,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 336,
-				"target_id": 1249,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 336,
-				"target_id": 1279,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 341,
-				"target_id": 365,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 341,
-				"target_id": 577,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 341,
-				"target_id": 675,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 341,
-				"target_id": 687,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 341,
-				"target_id": 772,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 341,
-				"target_id": 1056,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 341,
-				"target_id": 1276,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 341,
-				"target_id": 1412,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 341,
-				"target_id": 1699,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 341,
-				"target_id": 1710,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 341,
-				"target_id": 1766,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 365,
-				"target_id": 577,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 365,
-				"target_id": 675,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 365,
-				"target_id": 772,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 365,
-				"target_id": 1056,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 365,
-				"target_id": 1257,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 365,
-				"target_id": 1260,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 365,
-				"target_id": 1412,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 365,
-				"target_id": 1699,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 365,
-				"target_id": 1766,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 399,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 545,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 558,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 577,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 369,
+				"source_id": 590,
 				"target_id": 593,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 597,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 675,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 785,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 808,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 860,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 881,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 369,
-				"target_id": 892,
+				"source_id": 590,
+				"target_id": 683,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 369,
-				"target_id": 905,
+				"source_id": 590,
+				"target_id": 1073,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 369,
-				"target_id": 941,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 954,
+				"source_id": 590,
+				"target_id": 1540,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 369,
-				"target_id": 957,
+				"source_id": 590,
+				"target_id": 1707,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 369,
-				"target_id": 992,
+				"source_id": 590,
+				"target_id": 1782,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 590,
+				"target_id": 1820,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 593,
+				"target_id": 671,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 369,
+				"source_id": 593,
+				"target_id": 683,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 593,
+				"target_id": 1073,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 593,
+				"target_id": 1334,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 593,
+				"target_id": 1368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 593,
+				"target_id": 1540,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 593,
+				"target_id": 1707,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 593,
+				"target_id": 1757,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 593,
+				"target_id": 1782,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 593,
+				"target_id": 1820,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 593,
+				"target_id": 1838,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 593,
+				"target_id": 1862,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 610,
+				"target_id": 995,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 610,
+				"target_id": 1647,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 616,
+				"target_id": 1031,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 616,
+				"target_id": 1109,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 616,
+				"target_id": 1399,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 616,
+				"target_id": 1598,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 621,
 				"target_id": 999,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 369,
-				"target_id": 1208,
+				"source_id": 621,
+				"target_id": 1009,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 369,
-				"target_id": 1260,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 1270,
+				"source_id": 621,
+				"target_id": 1386,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 369,
-				"target_id": 1306,
+				"source_id": 621,
+				"target_id": 1391,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 369,
-				"target_id": 1315,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 1381,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 1504,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 1542,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 1561,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 1710,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 1786,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 1847,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 369,
-				"target_id": 1872,
+				"source_id": 621,
+				"target_id": 1919,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 369,
-				"target_id": 1910,
+				"source_id": 632,
+				"target_id": 1231,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 370,
-				"target_id": 545,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 370,
-				"target_id": 860,
+				"source_id": 632,
+				"target_id": 1575,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 370,
-				"target_id": 954,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 370,
-				"target_id": 1270,
+				"source_id": 632,
+				"target_id": 1854,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 370,
-				"target_id": 1561,
+				"source_id": 632,
+				"target_id": 1857,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 370,
-				"target_id": 1710,
-				"strength": 3.0000
+				"source_id": 632,
+				"target_id": 1873,
+				"strength": 1.0000
 			},
 			{
-				"source_id": 370,
-				"target_id": 1910,
+				"source_id": 646,
+				"target_id": 667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 646,
+				"target_id": 683,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 395,
-				"target_id": 414,
+				"source_id": 646,
+				"target_id": 888,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 395,
-				"target_id": 625,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 395,
-				"target_id": 1003,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 395,
-				"target_id": 1013,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 395,
-				"target_id": 1390,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 395,
-				"target_id": 1395,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 395,
-				"target_id": 1924,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 400,
-				"target_id": 577,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 400,
-				"target_id": 671,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 400,
-				"target_id": 675,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 400,
-				"target_id": 687,
+				"source_id": 646,
+				"target_id": 939,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 400,
-				"target_id": 941,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 400,
-				"target_id": 1710,
+				"source_id": 646,
+				"target_id": 1093,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 400,
-				"target_id": 1839,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 400,
-				"target_id": 1870,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 410,
-				"target_id": 462,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 410,
-				"target_id": 476,
+				"source_id": 646,
+				"target_id": 1101,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 410,
-				"target_id": 579,
+				"source_id": 646,
+				"target_id": 1749,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 646,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 646,
+				"target_id": 1834,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 683,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 937,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1706,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1749,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1834,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 410,
-				"target_id": 650,
+				"source_id": 667,
+				"target_id": 1865,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 671,
+				"target_id": 683,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 671,
+				"target_id": 768,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 671,
+				"target_id": 856,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 671,
+				"target_id": 939,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 671,
+				"target_id": 988,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 410,
-				"target_id": 687,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 410,
-				"target_id": 892,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 410,
-				"target_id": 943,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 410,
-				"target_id": 1097,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 410,
-				"target_id": 1105,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 414,
-				"target_id": 524,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 414,
-				"target_id": 535,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 414,
-				"target_id": 625,
+				"source_id": 671,
+				"target_id": 1052,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 414,
-				"target_id": 845,
+				"source_id": 671,
+				"target_id": 1100,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 414,
-				"target_id": 854,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 414,
-				"target_id": 1013,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 414,
-				"target_id": 1240,
+				"source_id": 671,
+				"target_id": 1272,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 414,
-				"target_id": 1395,
+				"source_id": 671,
+				"target_id": 1275,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 414,
-				"target_id": 1421,
+				"source_id": 671,
+				"target_id": 1334,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 414,
-				"target_id": 1651,
+				"source_id": 671,
+				"target_id": 1408,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 414,
-				"target_id": 1695,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 414,
-				"target_id": 1924,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 417,
-				"target_id": 558,
+				"source_id": 671,
+				"target_id": 1557,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 417,
-				"target_id": 594,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 417,
-				"target_id": 687,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 417,
-				"target_id": 892,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 417,
-				"target_id": 941,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 417,
-				"target_id": 980,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 417,
-				"target_id": 1104,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 417,
-				"target_id": 1508,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 419,
-				"target_id": 594,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 419,
-				"target_id": 597,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 419,
-				"target_id": 1077,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 419,
-				"target_id": 1544,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 419,
-				"target_id": 1711,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 419,
-				"target_id": 1786,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 419,
-				"target_id": 1824,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 450,
-				"target_id": 510,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 450,
-				"target_id": 892,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 450,
-				"target_id": 1104,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 450,
-				"target_id": 1193,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 450,
-				"target_id": 1343,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 450,
-				"target_id": 1532,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 450,
-				"target_id": 1542,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 462,
-				"target_id": 476,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 462,
-				"target_id": 650,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 462,
-				"target_id": 671,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 462,
-				"target_id": 687,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 462,
-				"target_id": 892,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 462,
-				"target_id": 943,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 462,
-				"target_id": 1097,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 462,
-				"target_id": 1105,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 462,
-				"target_id": 1753,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 462,
-				"target_id": 1754,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 462,
-				"target_id": 1839,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 467,
-				"target_id": 905,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 467,
-				"target_id": 974,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 467,
-				"target_id": 1306,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 469,
-				"target_id": 1480,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 469,
-				"target_id": 1542,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 470,
-				"target_id": 999,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 470,
-				"target_id": 1542,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 476,
-				"target_id": 579,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 476,
-				"target_id": 650,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 476,
-				"target_id": 671,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 476,
-				"target_id": 687,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 476,
-				"target_id": 892,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 476,
-				"target_id": 943,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 476,
-				"target_id": 1097,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 476,
-				"target_id": 1105,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 476,
-				"target_id": 1753,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 476,
-				"target_id": 1754,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 476,
-				"target_id": 1839,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 510,
-				"target_id": 892,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 510,
-				"target_id": 1532,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 510,
-				"target_id": 1542,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 516,
-				"target_id": 577,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 516,
-				"target_id": 593,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 516,
-				"target_id": 597,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 516,
-				"target_id": 687,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 516,
-				"target_id": 1077,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 516,
-				"target_id": 1519,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 516,
-				"target_id": 1841,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 516,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 516,
-				"target_id": 1867,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 524,
-				"target_id": 845,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 524,
-				"target_id": 1030,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 524,
-				"target_id": 1124,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 524,
-				"target_id": 1421,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 524,
+				"source_id": 671,
 				"target_id": 1695,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 535,
-				"target_id": 854,
+				"source_id": 671,
+				"target_id": 1706,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 671,
+				"target_id": 1707,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 671,
+				"target_id": 1762,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 535,
-				"target_id": 1695,
+				"source_id": 671,
+				"target_id": 1782,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 671,
+				"target_id": 1817,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 545,
-				"target_id": 593,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 545,
-				"target_id": 687,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 545,
-				"target_id": 860,
+				"source_id": 671,
+				"target_id": 1838,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 545,
-				"target_id": 954,
-				"strength": 4.0000
+				"source_id": 671,
+				"target_id": 1862,
+				"strength": 2.0000
 			},
 			{
-				"source_id": 545,
-				"target_id": 1270,
+				"source_id": 671,
+				"target_id": 1865,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 545,
-				"target_id": 1561,
+				"source_id": 683,
+				"target_id": 686,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 683,
+				"target_id": 768,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 545,
-				"target_id": 1710,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 545,
-				"target_id": 1753,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 545,
-				"target_id": 1754,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 545,
-				"target_id": 1872,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 545,
-				"target_id": 1875,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 545,
-				"target_id": 1910,
+				"source_id": 683,
+				"target_id": 888,
 				"strength": 5.0000
 			},
 			{
-				"source_id": 558,
-				"target_id": 892,
-				"strength": 2.0000
+				"source_id": 683,
+				"target_id": 937,
+				"strength": 1.0000
 			},
 			{
-				"source_id": 558,
-				"target_id": 905,
-				"strength": 2.0000
+				"source_id": 683,
+				"target_id": 939,
+				"strength": 4.0000
 			},
 			{
-				"source_id": 558,
-				"target_id": 941,
-				"strength": 2.0000
+				"source_id": 683,
+				"target_id": 1052,
+				"strength": 1.0000
 			},
 			{
-				"source_id": 558,
-				"target_id": 980,
-				"strength": 2.0000
+				"source_id": 683,
+				"target_id": 1073,
+				"strength": 1.0000
 			},
 			{
-				"source_id": 558,
-				"target_id": 1315,
-				"strength": 2.0000
+				"source_id": 683,
+				"target_id": 1093,
+				"strength": 4.0000
 			},
 			{
-				"source_id": 558,
-				"target_id": 1508,
+				"source_id": 683,
+				"target_id": 1100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 683,
+				"target_id": 1101,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 683,
+				"target_id": 1272,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 558,
-				"target_id": 1710,
-				"strength": 1.0000
+				"source_id": 683,
+				"target_id": 1368,
+				"strength": 2.0000
 			},
 			{
-				"source_id": 576,
-				"target_id": 675,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 576,
-				"target_id": 1824,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 576,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 576,
-				"target_id": 1875,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 577,
-				"target_id": 580,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 577,
-				"target_id": 597,
+				"source_id": 683,
+				"target_id": 1408,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 577,
-				"target_id": 675,
+				"source_id": 683,
+				"target_id": 1515,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 683,
+				"target_id": 1540,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 683,
+				"target_id": 1706,
 				"strength": 6.0000
 			},
 			{
-				"source_id": 577,
-				"target_id": 687,
+				"source_id": 683,
+				"target_id": 1707,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 577,
-				"target_id": 772,
+				"source_id": 683,
+				"target_id": 1749,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 577,
-				"target_id": 860,
+				"source_id": 683,
+				"target_id": 1750,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 577,
-				"target_id": 992,
+				"source_id": 683,
+				"target_id": 1757,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 683,
+				"target_id": 1834,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 577,
-				"target_id": 1056,
+				"source_id": 683,
+				"target_id": 1836,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 683,
+				"target_id": 1838,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 577,
-				"target_id": 1276,
+				"source_id": 683,
+				"target_id": 1862,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 577,
-				"target_id": 1338,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 577,
-				"target_id": 1412,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 577,
-				"target_id": 1561,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 577,
-				"target_id": 1699,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 577,
-				"target_id": 1710,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 577,
-				"target_id": 1711,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 577,
-				"target_id": 1766,
+				"source_id": 683,
+				"target_id": 1865,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 577,
-				"target_id": 1786,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 577,
-				"target_id": 1821,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 577,
-				"target_id": 1843,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 577,
+				"source_id": 683,
 				"target_id": 1867,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 686,
+				"target_id": 737,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 686,
+				"target_id": 1245,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 686,
+				"target_id": 1334,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 686,
+				"target_id": 1368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 686,
+				"target_id": 1538,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 686,
+				"target_id": 1650,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 686,
+				"target_id": 1706,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 577,
+				"source_id": 686,
+				"target_id": 1749,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 686,
+				"target_id": 1750,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 686,
+				"target_id": 1834,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 698,
+				"target_id": 1145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 698,
+				"target_id": 1417,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 737,
+				"target_id": 1245,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 737,
+				"target_id": 1339,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 737,
+				"target_id": 1538,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 738,
+				"target_id": 781,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 738,
+				"target_id": 1015,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 738,
+				"target_id": 1189,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 738,
+				"target_id": 1339,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 738,
+				"target_id": 1446,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 742,
+				"target_id": 1159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 742,
+				"target_id": 1189,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 742,
+				"target_id": 1647,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 757,
+				"target_id": 1009,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 757,
+				"target_id": 1409,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 757,
+				"target_id": 1575,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 757,
+				"target_id": 1683,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 768,
+				"target_id": 1052,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 768,
+				"target_id": 1253,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 768,
+				"target_id": 1256,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 768,
+				"target_id": 1272,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 768,
+				"target_id": 1408,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 768,
+				"target_id": 1706,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 768,
+				"target_id": 1707,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 781,
+				"target_id": 1015,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 781,
+				"target_id": 1079,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 781,
+				"target_id": 1189,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 781,
+				"target_id": 1245,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 781,
+				"target_id": 1275,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 781,
+				"target_id": 1311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 781,
+				"target_id": 1339,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 781,
+				"target_id": 1538,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 781,
+				"target_id": 1667,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 781,
+				"target_id": 1820,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 804,
+				"target_id": 850,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 804,
+				"target_id": 1204,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 804,
+				"target_id": 1377,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 804,
+				"target_id": 1409,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 838,
+				"target_id": 888,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 838,
+				"target_id": 1199,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 841,
+				"target_id": 1204,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 841,
+				"target_id": 1417,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 841,
+				"target_id": 1691,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 850,
+				"target_id": 1691,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 856,
+				"target_id": 950,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 856,
+				"target_id": 1266,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 856,
+				"target_id": 1557,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 856,
+				"target_id": 1706,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 856,
+				"target_id": 1838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 856,
+				"target_id": 1862,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 856,
+				"target_id": 1867,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 856,
 				"target_id": 1870,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 579,
-				"target_id": 650,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 579,
-				"target_id": 687,
+				"source_id": 856,
+				"target_id": 1905,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 579,
-				"target_id": 892,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 579,
-				"target_id": 943,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 579,
-				"target_id": 1097,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 579,
-				"target_id": 1105,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 580,
-				"target_id": 1841,
+				"source_id": 877,
+				"target_id": 953,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 593,
-				"target_id": 597,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 593,
-				"target_id": 687,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 593,
-				"target_id": 1519,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 593,
-				"target_id": 1654,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 593,
-				"target_id": 1753,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 593,
-				"target_id": 1754,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 593,
-				"target_id": 1761,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 593,
-				"target_id": 1841,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 593,
+				"source_id": 877,
 				"target_id": 1867,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 594,
-				"target_id": 597,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 594,
-				"target_id": 687,
+				"source_id": 888,
+				"target_id": 937,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 594,
-				"target_id": 1077,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 594,
-				"target_id": 1544,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 594,
-				"target_id": 1711,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 594,
-				"target_id": 1786,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 594,
-				"target_id": 1824,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 597,
-				"target_id": 687,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 597,
-				"target_id": 1077,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 597,
-				"target_id": 1338,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 597,
-				"target_id": 1372,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 597,
-				"target_id": 1544,
+				"source_id": 888,
+				"target_id": 939,
 				"strength": 4.0000
 			},
 			{
-				"source_id": 597,
-				"target_id": 1711,
+				"source_id": 888,
+				"target_id": 976,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 597,
-				"target_id": 1761,
+				"source_id": 888,
+				"target_id": 1079,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 597,
-				"target_id": 1786,
-				"strength": 3.0000
+				"source_id": 888,
+				"target_id": 1093,
+				"strength": 4.0000
 			},
 			{
-				"source_id": 597,
-				"target_id": 1824,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 597,
-				"target_id": 1843,
+				"source_id": 888,
+				"target_id": 1100,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 597,
-				"target_id": 1867,
+				"source_id": 888,
+				"target_id": 1101,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 888,
+				"target_id": 1189,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 614,
-				"target_id": 999,
+				"source_id": 888,
+				"target_id": 1253,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 614,
-				"target_id": 1651,
+				"source_id": 888,
+				"target_id": 1311,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 620,
-				"target_id": 1035,
-				"strength": 3.0000
+				"source_id": 888,
+				"target_id": 1339,
+				"strength": 1.0000
 			},
 			{
-				"source_id": 620,
-				"target_id": 1113,
+				"source_id": 888,
+				"target_id": 1500,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 888,
+				"target_id": 1504,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 620,
-				"target_id": 1403,
-				"strength": 2.0000
+				"source_id": 888,
+				"target_id": 1538,
+				"strength": 5.0000
 			},
 			{
-				"source_id": 620,
+				"source_id": 888,
 				"target_id": 1602,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 625,
-				"target_id": 1003,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 625,
-				"target_id": 1013,
+				"source_id": 888,
+				"target_id": 1667,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 625,
-				"target_id": 1390,
+				"source_id": 888,
+				"target_id": 1706,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 625,
-				"target_id": 1395,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 625,
-				"target_id": 1924,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 636,
-				"target_id": 1235,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 636,
-				"target_id": 1579,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 636,
-				"target_id": 1859,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 636,
-				"target_id": 1862,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 636,
-				"target_id": 1878,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 650,
-				"target_id": 671,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 650,
-				"target_id": 687,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 650,
-				"target_id": 892,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 650,
-				"target_id": 943,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 650,
-				"target_id": 1097,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 650,
-				"target_id": 1105,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 650,
-				"target_id": 1753,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 650,
-				"target_id": 1754,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 650,
-				"target_id": 1839,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 671,
-				"target_id": 687,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 671,
-				"target_id": 941,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 671,
-				"target_id": 1372,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 671,
-				"target_id": 1710,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 671,
-				"target_id": 1753,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 671,
-				"target_id": 1754,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 671,
-				"target_id": 1839,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 671,
-				"target_id": 1870,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 687,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 772,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 860,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 943,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 992,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1056,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1104,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1276,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1279,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1412,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1561,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1699,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1710,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1711,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1766,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1786,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 675,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 675,
+				"source_id": 888,
 				"target_id": 1867,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 675,
-				"target_id": 1870,
+				"source_id": 901,
+				"target_id": 970,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 687,
-				"target_id": 772,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 892,
-				"strength": 5.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 941,
+				"source_id": 901,
+				"target_id": 1302,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 687,
-				"target_id": 943,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1056,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1077,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1097,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1104,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1105,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1276,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1372,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1412,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1519,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1544,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1710,
-				"strength": 6.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1711,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1753,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1754,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1761,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1829,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1839,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1841,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1843,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1867,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1870,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 687,
-				"target_id": 1872,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 690,
-				"target_id": 741,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 690,
-				"target_id": 1249,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 690,
-				"target_id": 1338,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 690,
-				"target_id": 1542,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 690,
-				"target_id": 1710,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 690,
-				"target_id": 1753,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 690,
-				"target_id": 1754,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 690,
-				"target_id": 1829,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 702,
-				"target_id": 1149,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 702,
-				"target_id": 1421,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 741,
-				"target_id": 1249,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 741,
-				"target_id": 1343,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 741,
-				"target_id": 1542,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 742,
-				"target_id": 785,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 742,
-				"target_id": 1019,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 742,
-				"target_id": 1193,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 742,
-				"target_id": 1343,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 742,
-				"target_id": 1450,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 746,
-				"target_id": 1163,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 746,
-				"target_id": 1193,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 746,
-				"target_id": 1651,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 761,
-				"target_id": 1013,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 761,
-				"target_id": 1413,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 761,
-				"target_id": 1579,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 761,
-				"target_id": 1687,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 772,
-				"target_id": 1056,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 772,
-				"target_id": 1257,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 772,
-				"target_id": 1260,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 772,
-				"target_id": 1276,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 772,
-				"target_id": 1412,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 772,
-				"target_id": 1710,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 772,
-				"target_id": 1711,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 785,
-				"target_id": 1019,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 785,
-				"target_id": 1083,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 785,
-				"target_id": 1193,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 785,
-				"target_id": 1249,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 785,
-				"target_id": 1279,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 785,
-				"target_id": 1315,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 785,
-				"target_id": 1343,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 785,
-				"target_id": 1542,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 785,
-				"target_id": 1671,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 785,
-				"target_id": 1824,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 808,
-				"target_id": 854,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 808,
-				"target_id": 1208,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 808,
-				"target_id": 1381,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 808,
-				"target_id": 1413,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 842,
-				"target_id": 892,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 842,
-				"target_id": 1203,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 842,
-				"target_id": 1381,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 845,
-				"target_id": 1208,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 845,
-				"target_id": 1421,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 845,
-				"target_id": 1695,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 854,
-				"target_id": 1695,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 860,
-				"target_id": 954,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 860,
-				"target_id": 1270,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 860,
-				"target_id": 1561,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 860,
-				"target_id": 1710,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 860,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 860,
-				"target_id": 1867,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 860,
-				"target_id": 1872,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 860,
-				"target_id": 1875,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 860,
-				"target_id": 1910,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 881,
-				"target_id": 957,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 881,
-				"target_id": 1872,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 941,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 943,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 980,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 1083,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 1097,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 1104,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 1105,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 1193,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 1257,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 1315,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 1343,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 892,
+				"source_id": 901,
 				"target_id": 1504,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 892,
-				"target_id": 1508,
-				"strength": 2.0000
+				"source_id": 901,
+				"target_id": 1706,
+				"strength": 1.0000
 			},
 			{
-				"source_id": 892,
-				"target_id": 1542,
+				"source_id": 937,
+				"target_id": 976,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 937,
+				"target_id": 1199,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 937,
+				"target_id": 1311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 937,
+				"target_id": 1391,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 937,
+				"target_id": 1504,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 937,
+				"target_id": 1706,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 937,
+				"target_id": 1834,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 937,
+				"target_id": 1865,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 939,
+				"target_id": 1093,
 				"strength": 5.0000
 			},
 			{
-				"source_id": 892,
-				"target_id": 1606,
+				"source_id": 939,
+				"target_id": 1100,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 892,
-				"target_id": 1671,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 1710,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 892,
-				"target_id": 1872,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 905,
-				"target_id": 974,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 905,
-				"target_id": 1306,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 905,
-				"target_id": 1508,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 905,
-				"target_id": 1710,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 941,
-				"target_id": 980,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 941,
-				"target_id": 1203,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 941,
-				"target_id": 1315,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 941,
-				"target_id": 1395,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 941,
-				"target_id": 1508,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 941,
-				"target_id": 1710,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 941,
-				"target_id": 1839,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 941,
-				"target_id": 1870,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 943,
-				"target_id": 1097,
-				"strength": 5.0000
-			},
-			{
-				"source_id": 943,
-				"target_id": 1104,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 943,
-				"target_id": 1105,
+				"source_id": 939,
+				"target_id": 1101,
 				"strength": 4.0000
 			},
 			{
-				"source_id": 943,
-				"target_id": 1279,
+				"source_id": 939,
+				"target_id": 1275,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 954,
-				"target_id": 1270,
+				"source_id": 950,
+				"target_id": 1266,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 954,
-				"target_id": 1561,
+				"source_id": 950,
+				"target_id": 1557,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 954,
-				"target_id": 1710,
+				"source_id": 950,
+				"target_id": 1706,
 				"strength": 4.0000
 			},
 			{
-				"source_id": 954,
-				"target_id": 1872,
+				"source_id": 950,
+				"target_id": 1867,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 954,
-				"target_id": 1910,
+				"source_id": 950,
+				"target_id": 1905,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 957,
-				"target_id": 1270,
+				"source_id": 953,
+				"target_id": 1266,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 957,
-				"target_id": 1710,
+				"source_id": 953,
+				"target_id": 1706,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 974,
-				"target_id": 1306,
+				"source_id": 970,
+				"target_id": 1302,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 980,
-				"target_id": 1057,
+				"source_id": 976,
+				"target_id": 1053,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 980,
-				"target_id": 1315,
+				"source_id": 976,
+				"target_id": 1311,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 980,
-				"target_id": 1381,
+				"source_id": 976,
+				"target_id": 1377,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 980,
-				"target_id": 1508,
+				"source_id": 976,
+				"target_id": 1504,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 980,
-				"target_id": 1699,
+				"source_id": 976,
+				"target_id": 1695,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 992,
-				"target_id": 1786,
+				"source_id": 988,
+				"target_id": 1782,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 999,
-				"target_id": 1260,
+				"source_id": 995,
+				"target_id": 1256,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 995,
+				"target_id": 1538,
 				"strength": 1.0000
 			},
 			{
 				"source_id": 999,
-				"target_id": 1542,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1003,
-				"target_id": 1390,
+				"target_id": 1386,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 1003,
-				"target_id": 1395,
+				"source_id": 999,
+				"target_id": 1391,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 1003,
-				"target_id": 1421,
+				"source_id": 999,
+				"target_id": 1417,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1013,
-				"target_id": 1413,
+				"source_id": 1009,
+				"target_id": 1409,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1013,
-				"target_id": 1924,
+				"source_id": 1009,
+				"target_id": 1919,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1019,
-				"target_id": 1193,
+				"source_id": 1015,
+				"target_id": 1189,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1019,
-				"target_id": 1249,
+				"source_id": 1015,
+				"target_id": 1245,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 1019,
-				"target_id": 1279,
+				"source_id": 1015,
+				"target_id": 1275,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 1019,
-				"target_id": 1343,
+				"source_id": 1015,
+				"target_id": 1339,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1019,
-				"target_id": 1542,
+				"source_id": 1015,
+				"target_id": 1538,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1019,
-				"target_id": 1824,
+				"source_id": 1015,
+				"target_id": 1820,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1030,
-				"target_id": 1057,
+				"source_id": 1026,
+				"target_id": 1053,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 1030,
-				"target_id": 1113,
+				"source_id": 1026,
+				"target_id": 1109,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 1030,
-				"target_id": 1124,
+				"source_id": 1026,
+				"target_id": 1120,
 				"strength": 4.0000
 			},
 			{
-				"source_id": 1030,
-				"target_id": 1203,
+				"source_id": 1026,
+				"target_id": 1199,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1035,
-				"target_id": 1113,
+				"source_id": 1031,
+				"target_id": 1109,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 1035,
-				"target_id": 1403,
+				"source_id": 1031,
+				"target_id": 1399,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 1035,
-				"target_id": 1602,
+				"source_id": 1031,
+				"target_id": 1598,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 1056,
-				"target_id": 1276,
+				"source_id": 1052,
+				"target_id": 1272,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1056,
-				"target_id": 1412,
+				"source_id": 1052,
+				"target_id": 1408,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1056,
-				"target_id": 1699,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1056,
-				"target_id": 1710,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1056,
-				"target_id": 1766,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1057,
-				"target_id": 1113,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1057,
-				"target_id": 1124,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1057,
-				"target_id": 1381,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1077,
-				"target_id": 1519,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1077,
-				"target_id": 1544,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1077,
-				"target_id": 1711,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1077,
-				"target_id": 1786,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1077,
-				"target_id": 1824,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1077,
-				"target_id": 1841,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1083,
-				"target_id": 1257,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1083,
-				"target_id": 1671,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1083,
-				"target_id": 1872,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1097,
-				"target_id": 1105,
-				"strength": 4.0000
-			},
-			{
-				"source_id": 1097,
-				"target_id": 1279,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1104,
-				"target_id": 1193,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1104,
-				"target_id": 1279,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1104,
-				"target_id": 1343,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1104,
-				"target_id": 1542,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1104,
-				"target_id": 1710,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1113,
-				"target_id": 1124,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1113,
-				"target_id": 1403,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1113,
-				"target_id": 1602,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 1149,
-				"target_id": 1424,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1163,
-				"target_id": 1193,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1163,
-				"target_id": 1343,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1193,
-				"target_id": 1343,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 1193,
-				"target_id": 1542,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1203,
-				"target_id": 1395,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1208,
-				"target_id": 1381,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1208,
-				"target_id": 1413,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1208,
-				"target_id": 1421,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1208,
+				"source_id": 1052,
 				"target_id": 1695,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1235,
-				"target_id": 1668,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1235,
-				"target_id": 1862,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1240,
-				"target_id": 1651,
+				"source_id": 1052,
+				"target_id": 1706,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 1249,
-				"target_id": 1279,
+				"source_id": 1052,
+				"target_id": 1762,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 1249,
-				"target_id": 1542,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1257,
-				"target_id": 1260,
+				"source_id": 1053,
+				"target_id": 1109,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 1257,
-				"target_id": 1412,
+				"source_id": 1053,
+				"target_id": 1120,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1257,
-				"target_id": 1872,
+				"source_id": 1053,
+				"target_id": 1377,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1260,
-				"target_id": 1412,
+				"source_id": 1073,
+				"target_id": 1515,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1073,
+				"target_id": 1540,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1270,
-				"target_id": 1561,
+				"source_id": 1073,
+				"target_id": 1707,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1270,
-				"target_id": 1710,
+				"source_id": 1073,
+				"target_id": 1782,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1270,
-				"target_id": 1910,
+				"source_id": 1073,
+				"target_id": 1820,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1276,
-				"target_id": 1412,
+				"source_id": 1073,
+				"target_id": 1836,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1079,
+				"target_id": 1253,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1079,
+				"target_id": 1667,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1079,
+				"target_id": 1867,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1093,
+				"target_id": 1101,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1093,
+				"target_id": 1275,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1100,
+				"target_id": 1189,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1100,
+				"target_id": 1275,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1100,
+				"target_id": 1339,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1100,
+				"target_id": 1538,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1100,
+				"target_id": 1706,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1109,
+				"target_id": 1120,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1109,
+				"target_id": 1399,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1109,
+				"target_id": 1598,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 1276,
-				"target_id": 1710,
-				"strength": 3.0000
+				"source_id": 1145,
+				"target_id": 1420,
+				"strength": 2.0000
 			},
 			{
-				"source_id": 1276,
-				"target_id": 1711,
+				"source_id": 1159,
+				"target_id": 1189,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1159,
+				"target_id": 1339,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1306,
+				"source_id": 1189,
+				"target_id": 1339,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1189,
+				"target_id": 1538,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1199,
+				"target_id": 1391,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1204,
+				"target_id": 1409,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1204,
+				"target_id": 1417,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1204,
+				"target_id": 1691,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1231,
+				"target_id": 1664,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1231,
+				"target_id": 1857,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1236,
+				"target_id": 1647,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1245,
+				"target_id": 1275,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1245,
+				"target_id": 1538,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1253,
+				"target_id": 1256,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1253,
+				"target_id": 1408,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1253,
+				"target_id": 1867,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1256,
+				"target_id": 1408,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1266,
+				"target_id": 1557,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1266,
+				"target_id": 1706,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1266,
+				"target_id": 1905,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1272,
+				"target_id": 1408,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1272,
+				"target_id": 1706,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1272,
+				"target_id": 1707,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1302,
+				"target_id": 1500,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1302,
 				"target_id": 1504,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1311,
+				"target_id": 1504,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1334,
+				"target_id": 1706,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1334,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1339,
+				"target_id": 1538,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1368,
+				"target_id": 1540,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1368,
+				"target_id": 1757,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1368,
+				"target_id": 1838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1377,
+				"target_id": 1409,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1386,
+				"target_id": 1391,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 1306,
-				"target_id": 1508,
+				"source_id": 1386,
+				"target_id": 1417,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1315,
-				"target_id": 1508,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1338,
-				"target_id": 1710,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1338,
-				"target_id": 1754,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1343,
-				"target_id": 1542,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1372,
-				"target_id": 1544,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1372,
-				"target_id": 1761,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1372,
-				"target_id": 1829,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1372,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1381,
-				"target_id": 1413,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1390,
-				"target_id": 1395,
+				"source_id": 1399,
+				"target_id": 1598,
 				"strength": 2.0000
 			},
 			{
-				"source_id": 1390,
-				"target_id": 1421,
+				"source_id": 1408,
+				"target_id": 1706,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1408,
+				"target_id": 1707,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1403,
+				"source_id": 1417,
+				"target_id": 1691,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1446,
+				"target_id": 1650,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1476,
+				"target_id": 1528,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1476,
+				"target_id": 1538,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1500,
+				"target_id": 1504,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1500,
+				"target_id": 1667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1515,
+				"target_id": 1836,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1528,
+				"target_id": 1538,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1538,
 				"target_id": 1602,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1412,
-				"target_id": 1710,
 				"strength": 3.0000
 			},
 			{
-				"source_id": 1412,
-				"target_id": 1711,
+				"source_id": 1538,
+				"target_id": 1647,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1421,
-				"target_id": 1695,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1450,
-				"target_id": 1654,
+				"source_id": 1538,
+				"target_id": 1820,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1480,
-				"target_id": 1532,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1480,
-				"target_id": 1542,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 1504,
-				"target_id": 1508,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1504,
-				"target_id": 1671,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1519,
-				"target_id": 1841,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1532,
-				"target_id": 1542,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1542,
-				"target_id": 1606,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 1542,
-				"target_id": 1651,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1542,
-				"target_id": 1824,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1542,
-				"target_id": 1875,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1544,
-				"target_id": 1711,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1544,
-				"target_id": 1761,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1544,
-				"target_id": 1786,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1544,
-				"target_id": 1824,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1544,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1561,
-				"target_id": 1710,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1561,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1561,
-				"target_id": 1867,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1561,
-				"target_id": 1872,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1561,
-				"target_id": 1875,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1561,
-				"target_id": 1910,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 1579,
-				"target_id": 1687,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 1579,
-				"target_id": 1859,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1579,
-				"target_id": 1862,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1579,
-				"target_id": 1878,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1654,
-				"target_id": 1829,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1668,
-				"target_id": 1878,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 1699,
-				"target_id": 1766,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1710,
-				"target_id": 1711,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1710,
-				"target_id": 1754,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1710,
-				"target_id": 1821,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1710,
-				"target_id": 1829,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1710,
-				"target_id": 1839,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1710,
-				"target_id": 1870,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1710,
-				"target_id": 1872,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1710,
-				"target_id": 1910,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1711,
-				"target_id": 1786,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1711,
-				"target_id": 1824,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1753,
-				"target_id": 1754,
-				"strength": 3.0000
-			},
-			{
-				"source_id": 1753,
-				"target_id": 1829,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1753,
-				"target_id": 1839,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1754,
-				"target_id": 1829,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1754,
-				"target_id": 1839,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1761,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1786,
-				"target_id": 1824,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1821,
-				"target_id": 1843,
-				"strength": 2.0000
-			},
-			{
-				"source_id": 1824,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1829,
-				"target_id": 1839,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1839,
-				"target_id": 1843,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1839,
-				"target_id": 1867,
-				"strength": 1.0000
-			},
-			{
-				"source_id": 1839,
+				"source_id": 1538,
 				"target_id": 1870,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1841,
-				"target_id": 1867,
+				"source_id": 1540,
+				"target_id": 1707,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1540,
+				"target_id": 1757,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1843,
-				"target_id": 1867,
-				"strength": 3.0000
+				"source_id": 1540,
+				"target_id": 1782,
+				"strength": 2.0000
 			},
 			{
-				"source_id": 1859,
+				"source_id": 1540,
+				"target_id": 1820,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1540,
+				"target_id": 1838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1557,
+				"target_id": 1706,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1557,
+				"target_id": 1838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1557,
 				"target_id": 1862,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1859,
-				"target_id": 1878,
+				"source_id": 1557,
+				"target_id": 1867,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1862,
-				"target_id": 1878,
+				"source_id": 1557,
+				"target_id": 1870,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1872,
-				"target_id": 1875,
+				"source_id": 1557,
+				"target_id": 1905,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 1683,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 1854,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1872,
-				"target_id": 1910,
+				"source_id": 1575,
+				"target_id": 1857,
 				"strength": 1.0000
 			},
 			{
-				"source_id": 1875,
-				"target_id": 1910,
+				"source_id": 1575,
+				"target_id": 1873,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1664,
+				"target_id": 1873,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1695,
+				"target_id": 1762,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1706,
+				"target_id": 1707,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1706,
+				"target_id": 1750,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1706,
+				"target_id": 1817,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1706,
+				"target_id": 1834,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1706,
+				"target_id": 1865,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1706,
+				"target_id": 1867,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1706,
+				"target_id": 1905,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1707,
+				"target_id": 1782,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1707,
+				"target_id": 1820,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1749,
+				"target_id": 1750,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1749,
+				"target_id": 1834,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1750,
+				"target_id": 1834,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1757,
+				"target_id": 1838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1782,
+				"target_id": 1820,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1817,
+				"target_id": 1838,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1820,
+				"target_id": 1838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1834,
+				"target_id": 1838,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1834,
+				"target_id": 1862,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1834,
+				"target_id": 1865,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1836,
+				"target_id": 1862,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1838,
+				"target_id": 1862,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1854,
+				"target_id": 1857,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1854,
+				"target_id": 1873,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1857,
+				"target_id": 1873,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1867,
+				"target_id": 1870,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1867,
+				"target_id": 1905,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1870,
+				"target_id": 1905,
 				"strength": 1.0000
 			}
 		]
-	}
+	},
+	"config": {
+		"parameters": 
+			{
+				"item_color": 1,
+				"curved_links": true,
+				"dark_ui": true,
+				"show_info": false
+			}
+		}
 }
+
