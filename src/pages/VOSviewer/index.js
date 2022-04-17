@@ -221,7 +221,7 @@ const VOSviewer = observer(({ queryString }) => {
           <Screenshot />
           <DarkLightTheme />
           <Fullscreen />
-          <Info />
+          {/* <Info /> */}
         </div>
         <URLPanel />
         <LegendPanel />
