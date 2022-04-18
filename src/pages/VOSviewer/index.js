@@ -207,13 +207,15 @@ const VOSviewer = observer(({ queryString }) => {
       <div className={s.app(uiStore.darkTheme)}>
         <CssBaseline />
         <VisualizationComponent customFont={configStore.uiStyle.font_family} />
-        <img
-          className={s.vosviewerLogo}
-          src={uiStore.darkTheme ? vosviewerLogoDarkLowRes : vosviewerLogoLowRes}
-          srcSet={`${uiStore.darkTheme ? vosviewerLogoDarkHighRes : vosviewerLogoHighRes} 2x`}
-          alt="VOSviewer"
-          ref={vosviewerLogoEl}
-        />
+        <a href="http://www.rubidiumweb.fr">
+          <img
+            className={s.vosviewerLogo}
+            src={uiStore.darkTheme ? vosviewerLogoDarkLowRes : vosviewerLogoLowRes}
+            srcSet={`${uiStore.darkTheme ? vosviewerLogoDarkHighRes : vosviewerLogoHighRes} 2x`}
+            alt="VOSviewer"
+            ref={vosviewerLogoEl}
+          />
+        </a>
         <div className={`${s.actionIcons(configStore.urlPreviewPanelWidth)} ${configStore.urlPreviewPanel ? s.previewIsOpen : ''}`}>
           <Open />
           <Save />
