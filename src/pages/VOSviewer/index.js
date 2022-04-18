@@ -207,7 +207,7 @@ const VOSviewer = observer(({ queryString }) => {
       <div className={s.app(uiStore.darkTheme)}>
         <CssBaseline />
         <VisualizationComponent customFont={configStore.uiStyle.font_family} />
-        <a href="http://www.rubidiumweb.fr">
+        <a href="http://www.rubidiumweb.fr" target="_blank" rel="noreferrer">
           <img
             className={s.vosviewerLogo}
             src={uiStore.darkTheme ? vosviewerLogoDarkLowRes : vosviewerLogoLowRes}
