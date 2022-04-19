@@ -1,0 +1,45 @@
+label	replace by
+bramati, a.	bramati, a
+bramati, alberto	bramati, a
+fabre, c.	fabre, c
+giacobino, e.	giacobino, e
+giacobino, elisabeth	giacobino, e
+heidmann, a.	heidmann, a
+lambrecht, a.    	lambrecht, a
+biraben, francois	biraben, f
+brune, m.	brune, m
+castin, yvan	castin, y
+chevy, f.	chevy, f
+chevy, frederic	chevy, f
+cohentan, c	cohen-tannoudji, c
+cohentannoudji, c	cohen-tannoudji, c
+cohen-tannoudji, claude	cohen-tannoudji, c
+dalibard, j.	dalibard, j
+dalibard, jean	dalibard, j
+delande, d.	delande, d
+gotta, d.	gotta, d
+gremaud, benoit	gremaud, b
+haroche, s.	haroche, s
+haroche, serge	haroche, s
+indelicato, p.	indelicato, p
+indelicato, paul	indelicato, p
+laloe, f.	laloe, f
+laloe, franck	laloe, f
+lambrecht, astrid	lambrecht, a
+laurat, julien	laurat, j
+nez, francois	nez, f
+parente, f.	parente, f
+raimond, jean-michel	raimond, jm
+raimond, j. m.	raimond, jm
+reichel, jakob	reichel, j
+reichel, j.	reichel, j
+reynaud, s.	reynaud, s
+reynaud, serge	reynaud, s
+salomon, c.	salomon, c
+salomon, christophe	salomon, c
+simons, l. m.	simons, lm
+treps, n.	treps, n
+treps, nicolas	treps, n
+indelicato, pa	indelicato, p
+kastler, adrian	
+kastler, bruno	
